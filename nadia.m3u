@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="539183" tvg-id="" tvg-name="ARG | TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="TV ARGENTINA PREMIUM",ARG | TELEFE
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x2bZzk9K4w2w4u7J3hNCjR/m3u8
+#EXTINF:-1 xui-id="798716" tvg-id="" tvg-name="ARG | Telefe HD" tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="TV ARGENTINA PREMIUM",ARG | Telefe HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEM7AzwdtGqPQeqMxeBD-Ao/m3u8
+#EXTINF:-1 xui-id="784387" tvg-id="" tvg-name="ARG | TELEFE FHD-" tvg-logo="http://castlempire.site:8080/images/7aaa339acbc3f286f02236ccb094ad83.png" group-title="TV ARGENTINA PREMIUM",ARG | TELEFE FHD-
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHtvfdhJ1mHReMccBCFdtnH/m3u8
