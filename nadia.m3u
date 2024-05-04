@@ -1,14 +1,14 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 xui-id="539183" tvg-id="" tvg-name="ARG | TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="TV ARGENTINA PREMIUM",ARG | TELEFE
+#EXTINF:-1 xui-id="539183" tvg-id="" tvg-name="ARG | TELEFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="TV ARGENTINA PREMIUM",ARG | TELEFE SD
 https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x2bZzk9K4w2w4u7J3hNCjR/m3u8
 #EXTINF:-1 xui-id="798716" tvg-id="" tvg-name="ARG | Telefe HD" tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="TV ARGENTINA PREMIUM",ARG | Telefe HD
 https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEM7AzwdtGqPQeqMxeBD-Ao/m3u8
 #EXTINF:-1 xui-id="784387" tvg-id="" tvg-name="ARG | TELEFE FHD-" tvg-logo="http://castlempire.site:8080/images/7aaa339acbc3f286f02236ccb094ad83.png" group-title="TV ARGENTINA PREMIUM",ARG | TELEFE FHD-
 https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHtvfdhJ1mHReMccBCFdtnH/m3u8
-#EXTINF:-1 xui-id="798715" tvg-id="" tvg-name="ARG | TN HD" tvg-logo="https://logo.iptveditor.com/tn.png" group-title="TV ARGENTINA PREMIUM",ARG | TN HD
+#EXTINF:-1 xui-id="798715" tvg-id="" tvg-name="ARG | TN FHD" tvg-logo="https://logo.iptveditor.com/tn.png" group-title="TV ARGENTINA PREMIUM",ARG | TN FHD
 https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWF5rxljP3xnYx9CCVeWZtag/m3u8
-#EXTINF:-1 xui-id="798722" tvg-id="" tvg-name="ARG | Cronica TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWMmcZCQ5tr1Wv90_JiMagFY_0XjSp1Un3g596k6BiQ&s" group-title="TV ARGENTINA PREMIUM",ARG | Cronica TV
+#EXTINF:-1 xui-id="798722" tvg-id="" tvg-name="ARG | Cronica TV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWMmcZCQ5tr1Wv90_JiMagFY_0XjSp1Un3g596k6BiQ&s" group-title="TV ARGENTINA PREMIUM",ARG | Cronica TV SD
 https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFEYsZw86u1wXEeZFDFSckh/m3u8
 #EXTINF:-1 xui-id="707546" tvg-id="" tvg-name="ARG | America TV HD" tvg-logo="http://castlempire.site:8080/images/870e3592cb0bd04a9120d2ee1f0ec8f7.png" group-title="TV ARGENTINA PREMIUM",ARG | America TV HD
 https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFGDPnP-YJxmbJAMKumTUo_/m3u8
