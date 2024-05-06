@@ -1,16 +1,1155 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 xui-id="539183" tvg-id="" tvg-name="ARG | TELEFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="TV ARGENTINA PREMIUM",ARG | TELEFE [SD]
+#EXTINF:-1 tvg-name="Acequia TV"tvg-id=""tvg-logo="https://i.imgur.com/RdGdMCj.png"group-title="TV ARGENTINA VARIOS",Acequia TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrPqzy8B3D3sAhM0PknA_Ao/m3u8
+#EXTINF:-1 tvg-name="AlternaTV"tvg-id=""tvg-logo="https://alternatv.ar/alternatv.png"group-title="TV ARGENTINA VARIOS",AlternaTV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrnoP_QUr_wxdCWpjjHInBT/m3u8
+#EXTINF:-1 tvg-name="America Tucuman"tvg-id=""tvg-logo="https://i.imgur.com/TJmzwv9.png"group-title="TV ARGENTINA VARIOS",America Tucuman
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxq_nII7otdvPmnnLaUyx_PF/m3u8
+#EXTINF:-1 tvg-name="America TV"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="TV ARGENTINA VARIOS",America TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqAk_YU5NF5vHeQeCIInvWx/m3u8
+#EXTINF:-1 tvg-name="Antena 91"tvg-id=""tvg-logo="https://i.imgur.com/HAJxHcV.png"group-title="TV ARGENTINA VARIOS",Antena 91
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqjF8ueWVhalZwxDfnyPJ_D/m3u8
+#EXTINF:-1 tvg-name="Astro Net"tvg-id=""tvg-logo="https://i.imgur.com/SNbLfau.png"group-title="TV ARGENTINA VARIOS",Astro Net
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxp3cZPVwfhlrqMTZLrXvSyh/m3u8
+#EXTINF:-1 tvg-name="AVC HD"tvg-id=""tvg-logo="https://i.imgur.com/8CT4y1O.png"group-title="TV ARGENTINA VARIOS",AVC HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrAbMXWpSw3fgjV9QKVW8Fg/m3u8
+#EXTINF:-1 tvg-name="Azahares Radiovisual Multimedia"tvg-id=""tvg-logo="https://i.imgur.com/g1BFoSs.png"group-title="TV ARGENTINA VARIOS",Azahares Radiovisual Multimedia
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpxdJti3LkgYiIzjxWIDGbs/m3u8
+#EXTINF:-1 tvg-name="Bayres TV"tvg-id=""tvg-logo="https://i.imgur.com/9FDqljV.png"group-title="TV ARGENTINA VARIOS",Bayres TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoT4EO02e_L6rtQddRWLm-k/m3u8
+#EXTINF:-1 tvg-name="BVC"tvg-id=""tvg-logo="https://bvconline.com.ar/images/logo.png"group-title="TV ARGENTINA VARIOS",BVC
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxppsYKn34n9DtQ4pIZU76FW/m3u8
+#EXTINF:-1 tvg-name="C5N"tvg-id=""tvg-logo="https://i.imgur.com/5ZNZYjO.png"group-title="TV ARGENTINA VARIOS",C5N
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxr1UIhJMsn68nUkTDTHWtH4/m3u8
+#EXTINF:-1 tvg-name="Cable Imagen Armstrong"tvg-id=""tvg-logo="https://i.imgur.com/U9NuJQC.png"group-title="TV ARGENTINA VARIOS",Cable Imagen Armstrong
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqb9tuL5qV1weqG-Hy9yQ3O/m3u8
+#EXTINF:-1 tvg-name="Cadena Cover's Clasicos"tvg-id=""tvg-logo="https://i.imgur.com/CC1MFt6.png"group-title="TV ARGENTINA VARIOS",Cadena Cover's Clasicos
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxquFA-Vg5WmXl0h7JpB48_8/m3u8
+#EXTINF:-1 tvg-name="Cadena VIVO"tvg-id=""tvg-logo="https://i.imgur.com/bCjaI8j.png"group-title="TV ARGENTINA VARIOS",Cadena VIVO
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqfct9mkKbvsHcHkEH138Ih/m3u8
+#EXTINF:-1 tvg-name="Canal 10 Cordoba"tvg-id=""tvg-logo="https://i.imgur.com/87WCHtd.png"group-title="TV ARGENTINA VARIOS",Canal 10 Cordoba
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqlztX3KGWTWq0REAuZVODj/m3u8
+#EXTINF:-1 tvg-name="Canal 10 de Junin"tvg-id=""tvg-logo="https://i.imgur.com/FdWrWgt.png"group-title="TV ARGENTINA VARIOS",Canal 10 de Junin
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpLt_6OYCoxtDSRRlm11fob/m3u8
+#EXTINF:-1 tvg-name="Canal 10 Goya"tvg-id=""tvg-logo="https://i.ibb.co/cySdXxP/unnamed-5.png"group-title="TV ARGENTINA VARIOS",Canal 10 Goya
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrkK08l4zpFm_y9sX31ZKkT/m3u8
+#EXTINF:-1 tvg-name="Canal 10 Neuquen"tvg-id=""tvg-logo="https://i.imgur.com/HVlnnDo.png"group-title="TV ARGENTINA VARIOS",Canal 10 Neuquen
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrXRXr_foH-dvNFyv49a7Pp/m3u8
+#EXTINF:-1 tvg-name="Canal 10 Salta"tvg-id=""tvg-logo="https://i.imgur.com/don0WSG.png"group-title="TV ARGENTINA VARIOS",Canal 10 Salta
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxprYRMtsJ9AimAzRauokJVX/m3u8
+#EXTINF:-1 tvg-name="Canal 10 TV Rio Negro"tvg-id=""tvg-logo="https://i.imgur.com/zpJdUVC.png"group-title="TV ARGENTINA VARIOS",Canal 10 TV Rio Negro
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpFZeeEcsZqRk7I7V7BaXVZ/m3u8
+#EXTINF:-1 tvg-name="Canal 11 de la Costa"tvg-id=""tvg-logo="https://i.imgur.com/yYExcq1.jpg"group-title="TV ARGENTINA VARIOS",Canal 11 de la Costa
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqlRQ4pcIjxDJY-FF1gnO6Y/m3u8
+#EXTINF:-1 tvg-name="Canal 11 La Rioja"tvg-id=""tvg-logo="https://i.imgur.com/Umy5drt.png"group-title="TV ARGENTINA VARIOS",Canal 11 La Rioja
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqVoGwmpm0ZlpS9INZ-v2aH/m3u8
+#EXTINF:-1 tvg-name="Canal 12 Web"tvg-id=""tvg-logo="https://i.imgur.com/VYcTRbd.png"group-title="TV ARGENTINA VARIOS",Canal 12 Web
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpDK1T11h8UJjTYevrGeJi-/m3u8
+#EXTINF:-1 tvg-name="Canal 13 Jujuy"tvg-id=""tvg-logo="https://i.imgur.com/lmKLiJ3.jpg"group-title="TV ARGENTINA VARIOS",Canal 13 Jujuy
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrR_7dg38_73-KEAWyHZD9P/m3u8
+#EXTINF:-1 tvg-name="Canal 13 La Rioja"tvg-id=""tvg-logo="https://i.imgur.com/OI97Sgq.png"group-title="TV ARGENTINA VARIOS",Canal 13 La Rioja
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoapccildhXwyBk3zbmiBYO/m3u8
+#EXTINF:-1 tvg-name="Canal 13 San Luis"tvg-id=""tvg-logo="https://i.imgur.com/NcfMC29.png"group-title="TV ARGENTINA VARIOS",Canal 13 San Luis
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoU64lQ7iqE_iMeiRn-rPrL/m3u8
+#EXTINF:-1 tvg-name="Canal 20 Villa Maria"tvg-id=""tvg-logo="https://i.imgur.com/PaQH5JM.png"group-title="TV ARGENTINA VARIOS",Canal 20 Villa Maria
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxr8tJVcXQy8JU4Cjrq_ZKbN/m3u8
+#EXTINF:-1 tvg-name="Canal 21 TV"tvg-id=""tvg-logo="https://i.imgur.com/Am7yMXg.png"group-title="TV ARGENTINA VARIOS",Canal 21 TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpYxRkC_QbHgratRlIUPziE/m3u8
+#EXTINF:-1 tvg-name="Canal 22"tvg-id=""tvg-logo="https://i.imgur.com/R4wXVxf.png"group-title="TV ARGENTINA VARIOS",Canal 22
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqpQjIVMDAssEh8AtOD0s7o/m3u8
+#EXTINF:-1 tvg-name="Canal 26"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png"group-title="TV ARGENTINA VARIOS",Canal 26
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqO7nc6gyHV41Q7JvLaC9kY/m3u8
+#EXTINF:-1 tvg-name="Canal 2 de Ushuaia"tvg-id=""tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png"group-title="TV ARGENTINA VARIOS",Canal 2 de Ushuaia
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxo2LL_TpMKkStDF3BWGaSLH/m3u8
+#EXTINF:-1 tvg-name="Canal 2 Misiones"tvg-id=""tvg-logo="https://i.imgur.com/YqTNXDf.png"group-title="TV ARGENTINA VARIOS",Canal 2 Misiones
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoFgGo5l5Bzt5g0K2zfiL3M/m3u8
+#EXTINF:-1 tvg-name="Canal 2 Salta"tvg-id=""tvg-logo="https://i.imgur.com/kwOIiaO.png"group-title="TV ARGENTINA VARIOS",Canal 2 Salta
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoTEj-Mmhk_oe-jBgwbw7R1/m3u8
+#EXTINF:-1 tvg-name="Canal 2 Sanagasta"tvg-id=""tvg-logo="https://i.imgur.com/ssuILLB.jpg"group-title="TV ARGENTINA VARIOS",Canal 2 Sanagasta
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpSJvb5sR1xtJD5hoE6SnU1/m3u8
+#EXTINF:-1 tvg-name="Canal 3 Formosa"tvg-id=""tvg-logo="https://i.imgur.com/rVDrNIy.png"group-title="TV ARGENTINA VARIOS",Canal 3 Formosa
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrl1woObrVTbtV39PRzfbc0/m3u8
+#EXTINF:-1 tvg-name="Canal 3 La Pampa"tvg-id=""tvg-logo="https://i.imgur.com/SsNFudZ.png"group-title="TV ARGENTINA VARIOS",Canal 3 La Pampa
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpfcZ0E5zDPMQKzKglGMsYj/m3u8
+#EXTINF:-1 tvg-name="Canal 3 Las Heras"tvg-id=""tvg-logo="https://i.imgur.com/bd2afET.png"group-title="TV ARGENTINA VARIOS",Canal 3 Las Heras
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpm3L_vhl0lyM0yltgSEfwy/m3u8
+#EXTINF:-1 tvg-name="Canal 3 Pinamar"tvg-id=""tvg-logo="https://i.imgur.com/IABFaH1.png"group-title="TV ARGENTINA VARIOS",Canal 3 Pinamar
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxo4_1iHErm3iFBm5z_85tSP/m3u8
+#EXTINF:-1 tvg-name="Canal 3 Rosario"tvg-id=""tvg-logo="https://i.imgur.com/PjsKbrz.png"group-title="TV ARGENTINA VARIOS",Canal 3 Rosario
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqZD82CSy6gOiW2downMUjB/m3u8
+#EXTINF:-1 tvg-name="Canal 4 Balcarce"tvg-id=""tvg-logo="https://i.imgur.com/6xYbED7.png"group-title="TV ARGENTINA VARIOS",Canal 4 Balcarce
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqIbbq_i4p1gb8BJ5cJYP4E/m3u8
+#EXTINF:-1 tvg-name="Canal 4 Eldorado"tvg-id=""tvg-logo="https://i.imgur.com/wgLw4sV.png"group-title="TV ARGENTINA VARIOS",Canal 4 Eldorado
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqaMuA6Q1xw2DxxoUGY_BWE/m3u8
+#EXTINF:-1 tvg-name="Canal 4 Esquel"tvg-id=""tvg-logo="https://i.imgur.com/6kbOr16.png"group-title="TV ARGENTINA VARIOS",Canal 4 Esquel
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqHz305LSr2RVySD3otucBG/m3u8
+#EXTINF:-1 tvg-name="Canal 4 San Juan"tvg-id=""tvg-logo="https://i.imgur.com/MsCnwRA.png"group-title="TV ARGENTINA VARIOS",Canal 4 San Juan
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqYjgYCis_LQXOcy83zCOOY/m3u8
+#EXTINF:-1 tvg-name="Canal 5 Del Pueblo"tvg-id=""tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg"group-title="TV ARGENTINA VARIOS",Canal 5 Del Pueblo
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxramccybU4n8WVUxckG2yBu/m3u8
+#EXTINF:-1 tvg-name="Canal 5 Pico Truncado"tvg-id=""tvg-logo="https://i.imgur.com/VwUiSVF.png"group-title="TV ARGENTINA VARIOS",Canal 5 Pico Truncado
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqHSIvNlLzTe89FqYZduaZG/m3u8
+#EXTINF:-1 tvg-name="Canal 5 Santa Fe"tvg-id=""tvg-logo="https://i.imgur.com/WX0esjQ.png"group-title="TV ARGENTINA VARIOS",Canal 5 Santa Fe
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxovdZcNyiSN2CXDfOcMVCWg/m3u8
+#EXTINF:-1 tvg-name="Canal 5 Tucuman"tvg-id=""tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png"group-title="TV ARGENTINA VARIOS",Canal 5 Tucuman
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpQkck_hYebtHPHJkUIz4hR/m3u8
+#EXTINF:-1 tvg-name="Canal 6 Mar del Plata"tvg-id=""tvg-logo="https://i.imgur.com/fNaIrvV.png"group-title="TV ARGENTINA VARIOS",Canal 6 Mar del Plata
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrrEpkgxDl4hljble2KpzaH/m3u8
+#EXTINF:-1 tvg-name="Canal 6 Moreno"tvg-id=""tvg-logo="https://i.imgur.com/TefE4HC.png"group-title="TV ARGENTINA VARIOS",Canal 6 Moreno
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqP3DW3PwWUXLZkS-4nGaGg/m3u8
+#EXTINF:-1 tvg-name="Canal 6 Posadas"tvg-id=""tvg-logo="https://i.imgur.com/OamBiS5.png"group-title="TV ARGENTINA VARIOS",Canal 6 Posadas
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqoT6KDRmDELP5NS2wusrln/m3u8
+#EXTINF:-1 tvg-name="Canal 79 La Costa"tvg-id=""tvg-logo="https://i.imgur.com/HYuSqJy.png"group-title="TV ARGENTINA VARIOS",Canal 79 La Costa
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrauu8QI3C-dv6vrk3gIuPp/m3u8
+#EXTINF:-1 tvg-name="Canal 79 Puan"tvg-id=""tvg-logo="https://i.imgur.com/HYuSqJy.png"group-title="TV ARGENTINA VARIOS",Canal 79 Puan
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqeYZ4Rfoe_HnCtvWyNifhL/m3u8
+#EXTINF:-1 tvg-name="Canal 79 Santa Clara del Mar"tvg-id=""tvg-logo="https://i.imgur.com/I93ypGY.png"group-title="TV ARGENTINA VARIOS",Canal 79 Santa Clara del Mar
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxo2i3o7HkUV3gb9tvzCcXKA/m3u8
+#EXTINF:-1 tvg-name="Canal 7 Chubut"tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-7-chubut-ar.png"group-title="TV ARGENTINA VARIOS",Canal 7 Chubut
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxozCrE5a1uyzeplaLGlsBO9/m3u8
+#EXTINF:-1 tvg-name="Canal 7 Neuquen"tvg-id=""tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png"group-title="TV ARGENTINA VARIOS",Canal 7 Neuquen
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxq1bsOcmibjM7-KtB_-6_Mg/m3u8
+#EXTINF:-1 tvg-name="Canal 7 Salta"tvg-id=""tvg-logo="https://i.imgur.com/CudG6sl.png"group-title="TV ARGENTINA VARIOS",Canal 7 Salta
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpD6ViXvbOUcAooEJNGRujS/m3u8
+#EXTINF:-1 tvg-name="Canal 8 Mar del Plata"tvg-id=""tvg-logo="https://i.imgur.com/G7TaQ1L.png"group-title="TV ARGENTINA VARIOS",Canal 8 Mar del Plata
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqiDV6z1k_-XMGZCS5fS8CP/m3u8
+#EXTINF:-1 tvg-name="Canal 8 San Juan"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPYspgaPVcDnGMJbiJyhthRt27nGqGkdWbqyk43bg=s176-c-k-c0x00ffffff-no-rj"group-title="TV ARGENTINA VARIOS",Canal 8 San Juan
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoYurVxNuPU3N4dGnlYGxh9/m3u8
+#EXTINF:-1 tvg-name="Canal 8 Valle de Uco"tvg-id=""tvg-logo="https://i.imgur.com/XwZ7m4L.png"group-title="TV ARGENTINA VARIOS",Canal 8 Valle de Uco
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpAg0PBcmRyO8ZFdju6wLmi/m3u8
+#EXTINF:-1 tvg-name="Canal 9 La Rioja"tvg-id=""tvg-logo="https://i.imgur.com/Sy7lBuk.png"group-title="TV ARGENTINA VARIOS",Canal 9 La Rioja
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoychMlFCLwRXExZFynhCxe/m3u8
+#EXTINF:-1 tvg-name="Canal 9 Norte Misionero"tvg-id=""tvg-logo="https://i.ibb.co/RSyDMxM/unnamed-6.png"group-title="TV ARGENTINA VARIOS",Canal 9 Norte Misionero
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpD--LjM-X1plfgC-VzAlAr/m3u8
+#EXTINF:-1 tvg-name="Canal 9 Resistencia"tvg-id=""tvg-logo="https://i.imgur.com/xqgRFpC.png"group-title="TV ARGENTINA VARIOS",Canal 9 Resistencia
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxojBvo-WIO55GP6rXGwLx0C/m3u8
+#EXTINF:-1 tvg-name="Canal 9 Santa Cruz"tvg-id=""tvg-logo="https://i.imgur.com/WJjY3bu.png"group-title="TV ARGENTINA VARIOS",Canal 9 Santa Cruz
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxopqCk3te8XoT2QEo0T3riv/m3u8
+#EXTINF:-1 tvg-name="Canal 9 Televida"tvg-id=""tvg-logo="https://i.imgur.com/JUtAzg4.png"group-title="TV ARGENTINA VARIOS",Canal 9 Televida
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqi6mPXcUj04_Bk9-93L1Uq/m3u8
+#EXTINF:-1 tvg-name="Canal CNR"tvg-id=""tvg-logo="https://i.imgur.com/IhwOCKT.png"group-title="TV ARGENTINA VARIOS",Canal CNR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoz2j4n3dDVaiwDxJkiw8lS/m3u8
+#EXTINF:-1 tvg-name="Canal Coop"tvg-id=""tvg-logo="https://i.imgur.com/6sRGybG.png"group-title="TV ARGENTINA VARIOS",Canal Coop
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpO6050GUiGvIs6P3kACmnN/m3u8
+#EXTINF:-1 tvg-name="Canal de la Ciudad"tvg-id=""tvg-logo="https://i.imgur.com/fNURpai.png"group-title="TV ARGENTINA VARIOS",Canal de la Ciudad
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqrmavKirU1pYPFNPwYdiAg/m3u8
+#EXTINF:-1 tvg-name="Canal Orbe 21"tvg-id=""tvg-logo="https://i.imgur.com/USD6Wn8.png"group-title="TV ARGENTINA VARIOS",Canal Orbe 21
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxognUDThPxLyyBBpCQV-rI3/m3u8
+#EXTINF:-1 tvg-name="Canal Provincial"tvg-id=""tvg-logo="https://i.imgur.com/bXHHtcb.png"group-title="TV ARGENTINA VARIOS",Canal Provincial
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqWxh5657FJkbJiBKgI7mAo/m3u8
+#EXTINF:-1 tvg-name="Canal Rural"tvg-id=""tvg-logo="https://i.imgur.com/NgIBbPX.png"group-title="TV ARGENTINA VARIOS",Canal Rural
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrvd09PSsoFdQUpD8IQiO_D/m3u8
+#EXTINF:-1 tvg-name="Canal Santa Maria"tvg-id=""tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg"group-title="TV ARGENTINA VARIOS",Canal Santa Maria
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxr3vBI7WnaLu4ot2eXjpKg5/m3u8
+#EXTINF:-1 tvg-name="Canal Siete"tvg-id=""tvg-logo="https://i.imgur.com/NdQF9K9.png"group-title="TV ARGENTINA VARIOS",Canal Siete
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoOoOehRRl53SuimXno5bv5/m3u8
+#EXTINF:-1 tvg-name="Canal U"tvg-id=""tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png"group-title="TV ARGENTINA VARIOS",Canal U
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxq5IdtPqSKTbpSverNr4wOu/m3u8
+#EXTINF:-1 tvg-name="Canal XFN"tvg-id=""tvg-logo="https://i.imgur.com/Hw37hNs.png"group-title="TV ARGENTINA VARIOS",Canal XFN
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqBwApsArHrjLUfvuWKoTRO/m3u8
+#EXTINF:-1 tvg-name="Catamarca TV"tvg-id=""tvg-logo="https://i.imgur.com/CEuPoqG.png"group-title="TV ARGENTINA VARIOS",Catamarca TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpvy3-FAFJDS3T-AgT7bCWV/m3u8
+#EXTINF:-1 tvg-name="Celta TV"tvg-id=""tvg-logo="https://i.imgur.com/rwoIF4w.png"group-title="TV ARGENTINA VARIOS",Celta TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqVPp48GSk4_36MBW0J4MRW/m3u8
+#EXTINF:-1 tvg-name="Chaco TV"tvg-id=""tvg-logo="https://i.imgur.com/b6RerDw.png"group-title="TV ARGENTINA VARIOS",Chaco TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrBrj6XYWNqfUvzdYHkZym8/m3u8
+#EXTINF:-1 tvg-name="Chacra TV"tvg-id=""tvg-logo="https://i.imgur.com/gy7AEfO.png"group-title="TV ARGENTINA VARIOS",Chacra TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoxLDtwaWLWwBxz79QLd6Dv/m3u8
+#EXTINF:-1 tvg-name="Cinco TV"tvg-id=""tvg-logo="https://i.imgur.com/p9aaBKg.png"group-title="TV ARGENTINA VARIOS",Cinco TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrBW-hsrE1BmmRSQ4MitXBY/m3u8
+#EXTINF:-1 tvg-name="Cine.Ar"tvg-id=""tvg-logo="https://i.imgur.com/Iozv4tT.png"group-title="TV ARGENTINA VARIOS",Cine.Ar
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoNEuDblZEoGc8irptBpzb9/m3u8
+#EXTINF:-1 tvg-name="Ciudad Magazine"tvg-id=""tvg-logo="https://i.imgur.com/V1xZV72.png"group-title="TV ARGENTINA VARIOS",Ciudad Magazine
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrEisQwJBBmyudZtecBthtq/m3u8
+#EXTINF:-1 tvg-name="Ciudad TV Resistencia"tvg-id=""tvg-logo="https://i.imgur.com/oL8SMTL.png"group-title="TV ARGENTINA VARIOS",Ciudad TV Resistencia
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpGTFhx0soSXRTBvjU_FVKn/m3u8
+#EXTINF:-1 tvg-name="CnAr Deportes"tvg-id=""tvg-logo="https://i.imgur.com/07ki2df.png"group-title="TV ARGENTINA VARIOS",CnAr Deportes
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqoCM0_Nq4o2YKwsyKuLbt1/m3u8
+#EXTINF:-1 tvg-name="CnAr Noticias"tvg-id=""tvg-logo="https://i.imgur.com/yOk4bHZ.png"group-title="TV ARGENTINA VARIOS",CnAr Noticias
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoMwXEZmijQ-62VisAYeQiK/m3u8
+#EXTINF:-1 tvg-name="Corrientes TV"tvg-id=""tvg-logo="https://i.imgur.com/7PBkvRp.png"group-title="TV ARGENTINA VARIOS",Corrientes TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoYc8uK_0UCQeUWHPwlCWWV/m3u8
+#EXTINF:-1 tvg-name="CPEtv"tvg-id=""tvg-logo="https://i.imgur.com/zFgbobO.png"group-title="TV ARGENTINA VARIOS",CPEtv
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxr932XiLXyKz06gdKcoHEbX/m3u8
+#EXTINF:-1 tvg-name="Cronica TV"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png"group-title="TV ARGENTINA VARIOS",Cronica TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxp5WX9MjMkAOPQdkPAMBh3h/m3u8
+#EXTINF:-1 tvg-name="Crossing Canal IPTV"tvg-id=""tvg-logo="https://i.imgur.com/iNJu7Fu.png"group-title="TV ARGENTINA VARIOS",Crossing Canal IPTV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpqkGM5kkCfiYKOByNPzyfb/m3u8
+#EXTINF:-1 tvg-name="Dance TV"tvg-id=""tvg-logo="https://i.imgur.com/UKMR625.png"group-title="TV ARGENTINA VARIOS",Dance TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxo2E6I28JvQe6nbmAUMTNLz/m3u8
+#EXTINF:-1 tvg-name="DeporTV"tvg-id=""tvg-logo="https://i.imgur.com/THk9ARS.png"group-title="TV ARGENTINA VARIOS",DeporTV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqljNBJK0FqCMEiGBqOpW2U/m3u8
+#EXTINF:-1 tvg-name="DirecTV Sports"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png"group-title="TV ARGENTINA VARIOS",DirecTV Sports
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqI0d3kHnjBEawrWZI3Y1xT/m3u8
+#EXTINF:-1 tvg-name="Doce Misiones"tvg-id=""tvg-logo="https://i.imgur.com/agVTEeO.png"group-title="TV ARGENTINA VARIOS",Doce Misiones
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqeGCnONN7Em2TzzOTIXVgD/m3u8
+#EXTINF:-1 tvg-name="Eco TV"tvg-id=""tvg-logo="https://i.imgur.com/V2ldYVd.jpg"group-title="TV ARGENTINA VARIOS",Eco TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoIlbWu94fxxo3ZM5zt32GL/m3u8
+#EXTINF:-1 tvg-name="El Doce"tvg-id=""tvg-logo="https://i.imgur.com/HfyKPpD.png"group-title="TV ARGENTINA VARIOS",El Doce
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoSMfxVx3J68v3gohvmNqgO/m3u8
+#EXTINF:-1 tvg-name="El Histonauta TV"tvg-id=""tvg-logo="https://i.imgur.com/H4SFkx6.png"group-title="TV ARGENTINA VARIOS",El Histonauta TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoiPqmDoRfuQpDFa_CFizMt/m3u8
+#EXTINF:-1 tvg-name="El Nueve"tvg-id=""tvg-logo="https://i.imgur.com/cJHP7bU.png"group-title="TV ARGENTINA VARIOS",El Nueve
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxr7usg9d7FKUw5yvHA0xfXi/m3u8
+#EXTINF:-1 tvg-name="El Ocho"tvg-id=""tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png"group-title="TV ARGENTINA VARIOS",El Ocho
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrz8X4tXIPQo1LFUM3kjPlx/m3u8
+#EXTINF:-1 tvg-name="El Once"tvg-id=""tvg-logo="https://i.imgur.com/sm2oUGF.png"group-title="TV ARGENTINA VARIOS",El Once
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrAyDHyK3sshTgWvARxz91_/m3u8
+#EXTINF:-1 tvg-name="El Palomar TV"tvg-id=""tvg-logo="https://i.imgur.com/PqmBSqp.jpg"group-title="TV ARGENTINA VARIOS",El Palomar TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxryknT0yvKgFs2PLy_HdZi8/m3u8
+#EXTINF:-1 tvg-name="El SelloTV Madariaga"tvg-id=""tvg-logo="https://i.imgur.com/Cp3LMzV.png"group-title="TV ARGENTINA VARIOS",El SelloTV Madariaga
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxofNjH57au1FczRcTdRZDuR/m3u8
+#EXTINF:-1 tvg-name="El Siete"tvg-id=""tvg-logo="https://i.imgur.com/yKb7nfP.png"group-title="TV ARGENTINA VARIOS",El Siete
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpACY-djy3DfNWhWU3P5l0C/m3u8
+#EXTINF:-1 tvg-name="El Trece"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png"group-title="TV ARGENTINA VARIOS",El Trece
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpegQvF1ay46E0dtblTpXn5/m3u8
+#EXTINF:-1 tvg-name="Encuentro"tvg-id=""tvg-logo="https://i.imgur.com/uBBZR1X.png"group-title="TV ARGENTINA VARIOS",Encuentro
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpJ5vJkDkIHOOakkUAxyz5R/m3u8
+#EXTINF:-1 tvg-name="EPS TV"tvg-id=""tvg-logo="https://3.bp.blogspot.com/-qdX1xKfFHj8/VBZKR5VGAHI/AAAAAAAAzHQ/cm-kffchUkE/s1600/Canal5ePs.jpg"group-title="TV ARGENTINA VARIOS",EPS TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxruYeMOx_kF8YdgJVh7uvpo/m3u8
+#EXTINF:-1 tvg-name="Fenix TV"tvg-id=""tvg-logo="https://i.imgur.com/wQ33T78.png"group-title="TV ARGENTINA VARIOS",Fenix TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpGHTToxbUdY52VlCUUXucZ/m3u8
+#EXTINF:-1 tvg-name="Garage TV Latin America"tvg-id=""tvg-logo="https://i.imgur.com/FqFxog1.png"group-title="TV ARGENTINA VARIOS",Garage TV Latin America
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxru20TrM9xBwn3Jos_KbNqp/m3u8
+#EXTINF:-1 tvg-name="GenTV"tvg-id=""tvg-logo="https://i.imgur.com/qGddRW4.png"group-title="TV ARGENTINA VARIOS",GenTV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoXY4x7of-VzoAR8Isp9KkW/m3u8
+#EXTINF:-1 tvg-name="Global TV"tvg-id=""tvg-logo="https://i.imgur.com/z6srIMD.png"group-title="TV ARGENTINA VARIOS",Global TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxr-P1hfyBxjw3-Pf9KbGN9i/m3u8
+#EXTINF:-1 tvg-name="Ingenio FM"tvg-id=""tvg-logo="https://yt3.ggpht.com/8Mqa9VCxk9ijWdeq2Y7hfMn6953MyVo8IQ8qCVpbxRMTYMfC8REhe75PcDlF2ntsyldJFvJT=s400-c-k-c0x00ffffff-no-rj"group-title="TV ARGENTINA VARIOS",Ingenio FM
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrL4EoZpLXq058Gna31-rAz/m3u8
+#EXTINF:-1 tvg-name="IP Noticias"tvg-id=""tvg-logo="https://i.imgur.com/dbu9nx4.png"group-title="TV ARGENTINA VARIOS",IP Noticias
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpD9NO_xfrrlrZmUtZZW-_7/m3u8
+#EXTINF:-1 tvg-name="La Nacion +"tvg-id=""tvg-logo="https://i.imgur.com/Gj1kqH5.png"group-title="TV ARGENTINA VARIOS",La Nacion +
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqtWAUvC3MOz_m8MliqvKIy/m3u8
+#EXTINF:-1 tvg-name="Lapacho TV Canal 11"tvg-id=""tvg-logo="https://i.imgur.com/PmFBL7x.png"group-title="TV ARGENTINA VARIOS",Lapacho TV Canal 11
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxo0sOp3FN3tskaesd9MNvQa/m3u8
+#EXTINF:-1 tvg-name="La Voz de Tucuman"tvg-id=""tvg-logo="https://i.imgur.com/k2r7IeQ.png"group-title="TV ARGENTINA VARIOS",La Voz de Tucuman
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxojxSb2YZyEkx5TDGjEvFCf/m3u8
+#EXTINF:-1 tvg-name="Linea Directa Radio"tvg-id=""tvg-logo="https://i.imgur.com/fFYZku9.png"group-title="TV ARGENTINA VARIOS",Linea Directa Radio
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqrBBXEU_eEdsM0iiuuHfyh/m3u8
+#EXTINF:-1 tvg-name="Litus TV"tvg-id=""tvg-logo="https://i.imgur.com/QIGSf4L.png"group-title="TV ARGENTINA VARIOS",Litus TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxo2BJ74sBOekZ7pDZesti3_/m3u8
+#EXTINF:-1 tvg-name="LTO Television"tvg-id=""tvg-logo="https://i.imgur.com/ibe9iSi.png"group-title="TV ARGENTINA VARIOS",LTO Television
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqJukwne0p__JlCIRslDNCi/m3u8
+#EXTINF:-1 tvg-name="Magic Kids"tvg-id=""tvg-logo="https://i.imgur.com/CMImqQY.png"group-title="TV ARGENTINA VARIOS",Magic Kids
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqLDcuFGowoBHJsoDionr0G/m3u8
+#EXTINF:-1 tvg-name="Malbec Play"tvg-id=""tvg-logo="https://i.ibb.co/Wy3Mz9C/MP.png"group-title="TV ARGENTINA VARIOS",Malbec Play
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoK7ARDSFRkwNzuhdC9W81t/m3u8
+#EXTINF:-1 tvg-name="Mas Chic Panregional"tvg-id=""tvg-logo="https://i.imgur.com/pOyBwD1.png"group-title="TV ARGENTINA VARIOS",Mas Chic Panregional
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrVlI1BhTSNET9CKk_76Hsu/m3u8
+#EXTINF:-1 tvg-name="Mas FM"tvg-id=""tvg-logo="https://i.imgur.com/TJ4gWQM.png"group-title="TV ARGENTINA VARIOS",Mas FM
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxob0uuZCq9XUDsr5gAbnBPu/m3u8
+#EXTINF:-1 tvg-name="Maxima TV"tvg-id=""tvg-logo="https://i.ibb.co/NmwTVkX/Screenshot-20230715-163842.jpg"group-title="TV ARGENTINA VARIOS",Maxima TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrOqrXE5Zhb3VG7gIeSU0mk/m3u8
+#EXTINF:-1 tvg-name="Metropolitana FM"tvg-id=""tvg-logo="https://i.imgur.com/hWIGeHw.png"group-title="TV ARGENTINA VARIOS",Metropolitana FM
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoXzwXzVWEndm2PQSaNPUif/m3u8
+#EXTINF:-1 tvg-name="Metro TV"tvg-id=""tvg-logo="https://i.imgur.com/7f7M7zl.png"group-title="TV ARGENTINA VARIOS",Metro TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoaZ7lB2x5hveVI3R6rBM8t/m3u8
+#EXTINF:-1 tvg-name="Milenium TV"tvg-id=""tvg-logo="https://i.imgur.com/dhaY9DH.png"group-title="TV ARGENTINA VARIOS",Milenium TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqVcIcglYuuo7koEhAtesj3/m3u8
+#EXTINF:-1 tvg-name="Misiones Cuatro"tvg-id=""tvg-logo="https://i.imgur.com/HXRpRlK.png"group-title="TV ARGENTINA VARIOS",Misiones Cuatro
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqmf1BAjWzVThycfCh9vZl5/m3u8
+#EXTINF:-1 tvg-name="Multivision Federal"tvg-id=""tvg-logo="https://i.imgur.com/jX0lqy3.png"group-title="TV ARGENTINA VARIOS",Multivision Federal
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqCHMU0PlDyKpH1OGQlhGdg/m3u8
+#EXTINF:-1 tvg-name="MusicTop"tvg-id=""tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png"group-title="TV ARGENTINA VARIOS",MusicTop
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrT4uRagvwgi4-7O0uww6lX/m3u8
+#EXTINF:-1 tvg-name="Neo TV"tvg-id=""tvg-logo="https://i.imgur.com/Xtu85tb.png"group-title="TV ARGENTINA VARIOS",Neo TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqoB90zbptQNtRqGsmz84Uk/m3u8
+#EXTINF:-1 tvg-name="NET TV"tvg-id=""tvg-logo="https://i.imgur.com/IhJ0BjF.png"group-title="TV ARGENTINA VARIOS",NET TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqoq1wDvsto71FKFSoer-rq/m3u8
+#EXTINF:-1 tvg-name="NG Federal"tvg-id=""tvg-logo="https://i.imgur.com/lJCIqYn.png"group-title="TV ARGENTINA VARIOS",NG Federal
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpuDWkmvSol40YOrFGVnO7t/m3u8
+#EXTINF:-1 tvg-name="Norte TV"tvg-id=""tvg-logo="https://i.imgur.com/jTX2vp0.png"group-title="TV ARGENTINA VARIOS",Norte TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpTPUNpy9PyneFaBju2nvzA/m3u8
+#EXTINF:-1 tvg-name="OneRadio TV"tvg-id=""tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-one-103-7/play_250_250.jpg"group-title="TV ARGENTINA VARIOS",OneRadio TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxp3Yok5BbjpOstJskwJxkeu/m3u8
+#EXTINF:-1 tvg-name="Panc TV"tvg-id=""tvg-logo="https://i.imgur.com/u1dnEVv.png"group-title="TV ARGENTINA VARIOS",Panc TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxr_EszfIS6itB1Ilfjl6Wq6/m3u8
+#EXTINF:-1 tvg-name="Play Television"tvg-id=""tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg"group-title="TV ARGENTINA VARIOS",Play Television
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxp9yXl8qpb38_nuq8rAeMSK/m3u8
+#EXTINF:-1 tvg-name="PowerHD"tvg-id=""tvg-logo="https://i.imgur.com/15gMDG0.png"group-title="TV ARGENTINA VARIOS",PowerHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxricHbhB9EA23OQpP3FjBAn/m3u8
+#EXTINF:-1 tvg-name="Power Max Radio TV"tvg-id=""tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg"group-title="TV ARGENTINA VARIOS",Power Max Radio TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxq6n6efGfFygy_DDRG9vtYJ/m3u8
+#EXTINF:-1 tvg-name="Radio 3 Cadena Patagonia"tvg-id=""tvg-logo="https://i.ibb.co/XbHVnXB/logoradio3.png"group-title="TV ARGENTINA VARIOS",Radio 3 Cadena Patagonia
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrhuiSi4RESyY8sgwAVu1gV/m3u8
+#EXTINF:-1 tvg-name="Radiocanal"tvg-id=""tvg-logo="https://i.ibb.co/NNyDWsz/download-8.png"group-title="TV ARGENTINA VARIOS",Radiocanal
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpSB5v9WA2eENiErWFcxzQi/m3u8
+#EXTINF:-1 tvg-name="Radio FM Trujui"tvg-id=""tvg-logo="https://i.imgur.com/xPUQ17D.png"group-title="TV ARGENTINA VARIOS",Radio FM Trujui
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrPHmHnHNu7pOqnCKcFwXKS/m3u8
+#EXTINF:-1 tvg-name="Radio Mitre"tvg-id=""tvg-logo="https://i.imgur.com/uvck4Vj.png"group-title="TV ARGENTINA VARIOS",Radio Mitre
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoXffsH_mxYHhzBoPhWzX-T/m3u8
+#EXTINF:-1 tvg-name="Radio Sublime Gracia TV"tvg-id=""tvg-logo="https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png"group-title="TV ARGENTINA VARIOS",Radio Sublime Gracia TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxp4p_Y3eZaEt-xiGkOEyKsv/m3u8
+#EXTINF:-1 tvg-name="Radio TV Neuquen"tvg-id=""tvg-logo="https://i.imgur.com/HXBLozl.png"group-title="TV ARGENTINA VARIOS",Radio TV Neuquen
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqhStqSOS3oENFQpVnGKKWZ/m3u8
+#EXTINF:-1 tvg-name="Radio Yguazu TV"tvg-id=""tvg-logo="https://i.imgur.com/kVi0ICm.png"group-title="TV ARGENTINA VARIOS",Radio Yguazu TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrRQAHnYwpwLS9Vkhk7LOjn/m3u8
+#EXTINF:-1 tvg-name="RBD Radio Multimedia"tvg-id=""tvg-logo="https://i.imgur.com/TD0I4hG.png"group-title="TV ARGENTINA VARIOS",RBD Radio Multimedia
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxp3AVgyAhRgAomLhEE-W5f4/m3u8
+#EXTINF:-1 tvg-name="Retro Magico"tvg-id=""tvg-logo="https://i.imgur.com/jh1VknJ.png"group-title="TV ARGENTINA VARIOS",Retro Magico
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqxUtgASoWZI-AW6GyGNRsq/m3u8
+#EXTINF:-1 tvg-name="RTN"tvg-id=""tvg-logo="https://i.imgur.com/8xqYg4C.png"group-title="TV ARGENTINA VARIOS",RTN
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoN4JwvW6U_S6fuVj2_01Ig/m3u8
+#EXTINF:-1 tvg-name="San Pedro TV"tvg-id=""tvg-logo="https://i.imgur.com/UkpXogr.png"group-title="TV ARGENTINA VARIOS",San Pedro TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoPhhg_twP2YKPUcq2SljU_/m3u8
+#EXTINF:-1 tvg-name="Santa Fe Canal"tvg-id=""tvg-logo="https://i.imgur.com/C1mY5X4.png"group-title="TV ARGENTINA VARIOS",Santa Fe Canal
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpEJm0uAAOCZ2AczXbd335E/m3u8
+#EXTINF:-1 tvg-name="Senal U"tvg-id=""tvg-logo="https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png"group-title="TV ARGENTINA VARIOS",Senal U
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrT1fCANm79bMxUSs606xOA/m3u8
+#EXTINF:-1 tvg-name="Senate TV"tvg-id=""tvg-logo="https://i.imgur.com/Mt0UCXk.png"group-title="TV ARGENTINA VARIOS",Senate TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqLeG1AKhleYFM1li1OpZpL/m3u8
+#EXTINF:-1 tvg-name="Senillosa TV"tvg-id=""tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTrvk7gv0uCQ8QdGREqv6Rtzm4F6UMetdxKub6D=s400-c-k-c0x00ffffff-no-rj"group-title="TV ARGENTINA VARIOS",Senillosa TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxroeq2FlQ3sa8kQoLbFZaxn/m3u8
+#EXTINF:-1 tvg-name="Sicardi TV"tvg-id=""tvg-logo="https://i.imgur.com/W2EUIL2.png"group-title="TV ARGENTINA VARIOS",Sicardi TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqtXIHYD2X1INDQ9gAAoQ72/m3u8
+#EXTINF:-1 tvg-name="Somos La Pampa"tvg-id=""tvg-logo="https://i2.paste.pics/91920f8c1ac64beaaf70f7fbc09982c8.png"group-title="TV ARGENTINA VARIOS",Somos La Pampa
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrMEoMJOTOKE7UDF2sbBpZt/m3u8
+#EXTINF:-1 tvg-name="Super Classics TV"tvg-id=""tvg-logo="https://i.imgur.com/WlhCN7e.png"group-title="TV ARGENTINA VARIOS",Super Classics TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpI4Ea00CjlqVb4_92FwygB/m3u8
+#EXTINF:-1 tvg-name="T5 Satelital"tvg-id=""tvg-logo="https://i.imgur.com/ZcD0rUP.png"group-title="TV ARGENTINA VARIOS",T5 Satelital
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoqQj0F83k7_Ng1sblbhidV/m3u8
+#EXTINF:-1 tvg-name="Tango TV"tvg-id=""tvg-logo="https://i.ibb.co/g6KXPgt/download-58.jpg"group-title="TV ARGENTINA VARIOS",Tango TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrYFknRKSJmpF1tEUQRkqNb/m3u8
+#EXTINF:-1 tvg-name="TechScience 365"tvg-id=""tvg-logo="https://i.imgur.com/UtqOpaY.png"group-title="TV ARGENTINA VARIOS",TechScience 365
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxq3evMfZV60OgHFpOHRJ0PJ/m3u8
+#EXTINF:-1 tvg-name="TEC TV"tvg-id=""tvg-logo="https://i.imgur.com/LYy0Rfo.png"group-title="TV ARGENTINA VARIOS",TEC TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoqQ6xDSoR6TVLMWZp7ikLy/m3u8
+#EXTINF:-1 tvg-name="Telecinco"tvg-id=""tvg-logo="https://i.imgur.com/ZDenyAE.png"group-title="TV ARGENTINA VARIOS",Telecinco
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxof9EB_Ygx5uBIG1flN14c8/m3u8
+#EXTINF:-1 tvg-name="Telecondor Satelital"tvg-id=""tvg-logo="https://i.ibb.co/zbR9qhb/descarga.jpg"group-title="TV ARGENTINA VARIOS",Telecondor Satelital
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxq6bGU1VRUAIDOD3etbuYfU/m3u8
+#EXTINF:-1 tvg-name="Telecreativa"tvg-id=""tvg-logo="https://i.imgur.com/PjlAB6x.jpg"group-title="TV ARGENTINA VARIOS",Telecreativa
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxo9aFFAa2IWBxgm2f9noEPI/m3u8
+#EXTINF:-1 tvg-name="Telediario TV"tvg-id=""tvg-logo="https://i.imgur.com/Z4HJc1c.png"group-title="TV ARGENTINA VARIOS",Telediario TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpatiNTh3jp4AIdSp0i5iLa/m3u8
+#EXTINF:-1 tvg-name="Telefe Cordoba"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png"group-title="TV ARGENTINA VARIOS",Telefe Cordoba
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrJZc4EXYoEDsJ7smG8aqWH/m3u8
+#EXTINF:-1 tvg-name="Telefe Internacional"tvg-id=""tvg-logo="https://i.imgur.com/HNcCX3h.png"group-title="TV ARGENTINA VARIOS",Telefe Internacional
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqChUaKrwv1CrHl8zGg1T8A/m3u8
+#EXTINF:-1 tvg-name="Telefe Rosario"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png"group-title="TV ARGENTINA VARIOS",Telefe Rosario
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxozuHr5Ujepfz3p6F4hywUY/m3u8
+#EXTINF:-1 tvg-name="Telefe Salta"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/512px-Telefe_Salta_%282018%29.png"group-title="TV ARGENTINA VARIOS",Telefe Salta
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxq2jtCM7CaoXPIv3Y34mSrx/m3u8
+#EXTINF:-1 tvg-name="Telefe Santa Fe"tvg-id=""tvg-logo="https://i.imgur.com/x6hiZRU.png"group-title="TV ARGENTINA VARIOS",Telefe Santa Fe
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqgoXXlgk-6CZrevCOSOgmU/m3u8
+#EXTINF:-1 tvg-name="TeleJunin"tvg-id=""tvg-logo="https://i.imgur.com/5X8gdCv.png"group-title="TV ARGENTINA VARIOS",TeleJunin
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxo0sq4C9ccBHDaWIrQ_3XhU/m3u8
+#EXTINF:-1 tvg-name="TeleMix"tvg-id=""tvg-logo="https://i.imgur.com/qlYSai7.png"group-title="TV ARGENTINA VARIOS",TeleMix
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoS0bOKhbtUnC5XqbZOI1mE/m3u8
+#EXTINF:-1 tvg-name="Telenord"tvg-id=""tvg-logo="https://i.imgur.com/yqXORkt.png"group-title="TV ARGENTINA VARIOS",Telenord
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxq_GuUhAEjPDHkKf1oPeGaB/m3u8
+#EXTINF:-1 tvg-name="Televideo Regional"tvg-id=""tvg-logo="https://i.imgur.com/zLAocPn.png"group-title="TV ARGENTINA VARIOS",Televideo Regional
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxo1hRABw-jQV5pgc1leOYqt/m3u8
+#EXTINF:-1 tvg-name="Telpin TV Canal 2 HD"tvg-id=""tvg-logo="https://i.imgur.com/qcVSZvo.png"group-title="TV ARGENTINA VARIOS",Telpin TV Canal 2 HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrXcTR-DxGdF7zu1GItcy5a/m3u8
+#EXTINF:-1 tvg-name="TIV Television"tvg-id=""tvg-logo="https://i.imgur.com/gsgXGEj.png"group-title="TV ARGENTINA VARIOS",TIV Television
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrJTfYpskCqlnLVxDqAUj4f/m3u8
+#EXTINF:-1 tvg-name="TRU"tvg-id=""tvg-logo="https://i.ibb.co/Y0nf1Wd/TRU-Televisora-Regional-Unimar-en-vivo.png"group-title="TV ARGENTINA VARIOS",TRU
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqwI3LzwNskLc23cTtLu_4W/m3u8
+#EXTINF:-1 tvg-name="TV Mana Argentina"tvg-id=""tvg-logo="https://i.imgur.com/jars0mP.png"group-title="TV ARGENTINA VARIOS",TV Mana Argentina
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxp_4eZ-EIK3SKH-0wBTu_86/m3u8
+#EXTINF:-1 tvg-name="TVMAXCBA"tvg-id=""tvg-logo="https://i.imgur.com/v3nKtIV.png"group-title="TV ARGENTINA VARIOS",TVMAXCBA
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrDM3BZHktrNKP4bTPOFAw8/m3u8
+#EXTINF:-1 tvg-name="TV Publica"tvg-id=""tvg-logo="https://i.imgur.com/XGrkzN3.png"group-title="TV ARGENTINA VARIOS",TV Publica
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxotrZzwwh5EGIqXW9B_ZuaE/m3u8
+#EXTINF:-1 tvg-name="TV Solidaria"tvg-id=""tvg-logo="https://i.imgur.com/M0fMypR.png"group-title="TV ARGENTINA VARIOS",TV Solidaria
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpch6X7YgmMG3inQ2c-qyhJ/m3u8
+#EXTINF:-1 tvg-name="TV Universidad"tvg-id=""tvg-logo="https://i.imgur.com/0MXsQ25.png"group-title="TV ARGENTINA VARIOS",TV Universidad
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoEf3aZie7PEyWfKSOGLHtA/m3u8
+#EXTINF:-1 tvg-name="TyC Sports"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png"group-title="TV ARGENTINA VARIOS",TyC Sports
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxokvuzrLbXnZfmGY_d5YMC2/m3u8
+#EXTINF:-1 tvg-name="UNAM Transmedia"tvg-id=""tvg-logo="https://i2.paste.pics/8c4977628c2855095b6b9bff9a9f2a1d.png"group-title="TV ARGENTINA VARIOS",UNAM Transmedia
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpCkPF_kZRRDP8X2gE4IsWQ/m3u8
+#EXTINF:-1 tvg-name="Unirio TV"tvg-id=""tvg-logo="https://i.imgur.com/RMlneSY.png"group-title="TV ARGENTINA VARIOS",Unirio TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoZ_PUtLhT3WvlyBdDtxg2N/m3u8
+#EXTINF:-1 tvg-name="Uniteve"tvg-id=""tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg"group-title="TV ARGENTINA VARIOS",Uniteve
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqG01KObHFU4o_c2we80FCt/m3u8
+#EXTINF:-1 tvg-name="UTN TV"tvg-id=""tvg-logo="https://i.imgur.com/Sfi2nSE.png"group-title="TV ARGENTINA VARIOS",UTN TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrKoqyarkElsvADueoOOTTr/m3u8
+#EXTINF:-1 tvg-name="Viajar TV"tvg-id=""tvg-logo="https://i.imgur.com/LxB7ZIu.png"group-title="TV ARGENTINA VARIOS",Viajar TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoyXShbMf8VIzqFXP9b_wgm/m3u8
+#EXTINF:-1 tvg-name="Vorterix"tvg-id=""tvg-logo="https://i.imgur.com/RWL10TG.png"group-title="TV ARGENTINA VARIOS",Vorterix
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrNUla7hRRV162Pno7y1gDm/m3u8
+#EXTINF:-1 tvg-name="VTV Mendoza"tvg-id=""tvg-logo="https://i.ibb.co/DzcyCv3/1429-VTV-Mendoza.png"group-title="TV ARGENTINA VARIOS",VTV Mendoza
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqw0xDUiWag6rLMI6Q_a5-a/m3u8
+#EXTINF:-1 tvg-name="Xtrema Accion"tvg-id=""tvg-logo="https://i.imgur.com/z5NwizH.png"group-title="TV ARGENTINA VARIOS",Xtrema Accion
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxokQGcGNnDe9Mh-3AGPUgzI/m3u8
+#EXTINF:-1 tvg-name="Xtrema Animal"tvg-id=""tvg-logo="https://i.imgur.com/HQxKLlK.png"group-title="TV ARGENTINA VARIOS",Xtrema Animal
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxopX6AOEPPQGioIlTUkyMDa/m3u8
+#EXTINF:-1 tvg-name="Xtrema Anime"tvg-id=""tvg-logo="https://i.imgur.com/yor5owS.png"group-title="TV ARGENTINA VARIOS",Xtrema Anime
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqdHhljNSlJJfQFSF7Uao4y/m3u8
+#EXTINF:-1 tvg-name="Xtrema Asia"tvg-id=""tvg-logo="https://i.imgur.com/xX1tfJz.png"group-title="TV ARGENTINA VARIOS",Xtrema Asia
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoqJpxGLqd-1LDhAeKkViUj/m3u8
+#EXTINF:-1 tvg-name="Xtrema Cartoons"tvg-id=""tvg-logo="https://i.imgur.com/X2d8y4e.png"group-title="TV ARGENTINA VARIOS",Xtrema Cartoons
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqiBbcXRqkUwXC-2OEZxdG2/m3u8
+#EXTINF:-1 tvg-name="Xtrema Comedy"tvg-id=""tvg-logo="https://i.imgur.com/aNUufoq.png"group-title="TV ARGENTINA VARIOS",Xtrema Comedy
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxozxv7Rs5NLhx4AAG8S2p7j/m3u8
+#EXTINF:-1 tvg-name="Xtrema Drama"tvg-id=""tvg-logo="https://i.imgur.com/lkQBPmN.png"group-title="TV ARGENTINA VARIOS",Xtrema Drama
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqiaGrfhZCRoJDjXtVU1fM0/m3u8
+#EXTINF:-1 tvg-name="Xtrema Europa"tvg-id=""tvg-logo="https://i.imgur.com/o4EMF7I.png"group-title="TV ARGENTINA VARIOS",Xtrema Europa
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxpCPAes3kNexpA3-ojvUTRD/m3u8
+#EXTINF:-1 tvg-name="Xtrema Family"tvg-id=""tvg-logo="https://i.imgur.com/PohVKAP.png"group-title="TV ARGENTINA VARIOS",Xtrema Family
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqN8VoV-Cdnr44ZYOhcSwUt/m3u8
+#EXTINF:-1 tvg-name="Xtrema Hindi"tvg-id=""tvg-logo="https://i.imgur.com/9QIasCj.png"group-title="TV ARGENTINA VARIOS",Xtrema Hindi
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxp370AR4mRRt4y93WeH9gmV/m3u8
+#EXTINF:-1 tvg-name="Xtrema Latina"tvg-id=""tvg-logo="https://i.imgur.com/swgrOiH.png"group-title="TV ARGENTINA VARIOS",Xtrema Latina
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxplI39slog3uOXtVjlh-9p4/m3u8
+#EXTINF:-1 tvg-name="Xtrema Retro Cartoons"tvg-id=""tvg-logo="https://i.imgur.com/60ylWbQ.png"group-title="TV ARGENTINA VARIOS",Xtrema Retro Cartoons
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoYiQAFOVB2CCV0G61VsdOX/m3u8
+#EXTINF:-1 tvg-name="Xtrema Retro Series"tvg-id=""tvg-logo="https://i.imgur.com/ejBa7n3.png"group-title="TV ARGENTINA VARIOS",Xtrema Retro Series
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqHQ9UzUVCugLHDjG-mHCif/m3u8
+#EXTINF:-1 tvg-name="Xtrema Series"tvg-id=""tvg-logo="https://i.imgur.com/J7ZZIQN.png"group-title="TV ARGENTINA VARIOS",Xtrema Series
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxofrFwxtKNQTSuXc9LiEuGw/m3u8
+#EXTINF:-1 tvg-name="Xtrema Suspenso"tvg-id=""tvg-logo="https://i.imgur.com/7Vwno5k.png"group-title="TV ARGENTINA VARIOS",Xtrema Suspenso
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxo5gXY_On97HbFxjiu0f1Hd/m3u8
+#EXTINF:-1 tvg-name="Xtrema Terror"tvg-id=""tvg-logo="https://i.imgur.com/FcaTUym.png"group-title="TV ARGENTINA VARIOS",Xtrema Terror
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxq5UfYZ6QKBXXnKORTzQluc/m3u8
+#EXTINF:-1 tvg-name="Zonda TV"tvg-id=""tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png"group-title="TV ARGENTINA VARIOS",Zonda TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqjSY5jNjxpTzJdme2eRx5R/m3u8
+#EXTINF:-1 tvg-name="TN NOTICIAS"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png"group-title="TV ARGENTINA PREMIUM",TN NOTICIAS
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eEnRpgBFzXPMzddwJ3emzFU/m3u8
+#EXTINF:-1 tvg-name="ARG | CANAL 26 SD"tvg-id=""tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/canal-26-whatsaap.jpg"group-title="TV ARGENTINA PREMIUM",ARG | CANAL 26 SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yAr2IywK7_1rePuKt8cs7d/m3u8
+#EXTINF:-1 tvg-name="ARG | TELEFE"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"group-title="TV ARGENTINA PREMIUM",ARG | TELEFE
 https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x2bZzk9K4w2w4u7J3hNCjR/m3u8
-#EXTINF:-1 xui-id="798716" tvg-id="" tvg-name="ARG | Telefe HD" tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="TV ARGENTINA PREMIUM",ARG | Telefe [HD]
-https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEM7AzwdtGqPQeqMxeBD-Ao/m3u8
-#EXTINF:-1 xui-id="784387" tvg-id="" tvg-name="ARG | TELEFE FHD-" tvg-logo="http://castlempire.site:8080/images/7aaa339acbc3f286f02236ccb094ad83.png" group-title="TV ARGENTINA PREMIUM",ARG | TELEFE [FHD-]
-https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHtvfdhJ1mHReMccBCFdtnH/m3u8
-#EXTINF:-1 xui-id="798715" tvg-id="" tvg-name="ARG | TN FHD" tvg-logo="https://logo.iptveditor.com/tn.png" group-title="TV ARGENTINA PREMIUM",ARG | TN [FHD]
-https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWF5rxljP3xnYx9CCVeWZtag/m3u8
-#EXTINF:-1 xui-id="798722" tvg-id="" tvg-name="ARG | Cronica TV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWMmcZCQ5tr1Wv90_JiMagFY_0XjSp1Un3g596k6BiQ&s" group-title="TV ARGENTINA PREMIUM",ARG | Cronica TV [SD]
-https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFEYsZw86u1wXEeZFDFSckh/m3u8
-#EXTINF:-1 xui-id="707546" tvg-id="" tvg-name="ARG | America TV HD" tvg-logo="http://castlempire.site:8080/images/870e3592cb0bd04a9120d2ee1f0ec8f7.png" group-title="TV ARGENTINA PREMIUM",ARG | America TV [HD]
+#EXTINF:-1 tvg-name="ARG | EL TRECE"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png"group-title="TV ARGENTINA PREMIUM",ARG | EL TRECE
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wWa--G5R8Q5k6dslZLBTi2/m3u8
+#EXTINF:-1 tvg-name="ARG | TELEMAX"tvg-id=""tvg-logo="https://www.canal26.com/images/open-graph/telemax_logo.png"group-title="TV ARGENTINA PREMIUM",ARG | TELEMAX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zO2GmQYMuaGRXEprc6idsk/m3u8
+#EXTINF:-1 tvg-name="Paka Paka | AR"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pakapaka_canal_logo.svg/2560px-Pakapaka_canal_logo.svg.png"group-title="TV ARGENTINA PREMIUM",Paka Paka | AR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wE9ZH7cqXDeRBa-OYtS75u/m3u8
+#EXTINF:-1 tvg-name="Canal 79 Mar del Plata | AR"tvg-id=""tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png"group-title="TV ARGENTINA PREMIUM",Canal 79 Mar del Plata | AR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1ybD56kkt1bGVhCCmOxoH39/m3u8
+#EXTINF:-1 tvg-name="Informacion Periodistica | AR"tvg-id=""tvg-logo="https://lh3.googleusercontent.com/-rJV-6hUdyZQ/X4uFfHugYtI/AAAAAAAA6eU/HLiqqhf4_s8RjgL6X3sKBWDBqEGXoR0KgCK8BGAsYHg/s0/2020-10-17.jpg"group-title="TV ARGENTINA PREMIUM",Informacion Periodistica | AR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zFhq-mdBGbJBbYsro80dsf/m3u8
+#EXTINF:-1 tvg-name="Uni Teve | AR"tvg-id=""tvg-logo="https://lh3.googleusercontent.com/--AAhhuRqvN8/X4y9NE0LJXI/AAAAAAAA6iY/YoguEK_wmH0ax34yOvVR2eSBGS7gMoRJgCK8BGAsYHg/s0/2020-10-18.png"group-title="TV ARGENTINA PREMIUM",Uni Teve | AR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1w3r4uCfFpXKCzYiopeFcYa/m3u8
+#EXTINF:-1 tvg-name="Net TV | AR"tvg-id=""tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png"group-title="TV ARGENTINA PREMIUM",Net TV | AR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1w586hoJERlj-8g0bRJsS92/m3u8
+#EXTINF:-1 tvg-name="ARG: A24"tvg-id=""tvg-logo="https://www.minutoneuquen.com/u/fotografias/m/2022/2/18/f638x638-528224_586391_5050.png"group-title="TV ARGENTINA PREMIUM",ARG: A24
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zjVrFSlWmqlMD4wT3qX_iN/m3u8
+#EXTINF:-1 tvg-name="AR | C5N FHD"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s77601_ll_h3_aa.png"group-title="TV ARGENTINA PREMIUM",AR | C5N FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xj-Inul_pzofWI1kU-dEcm/m3u8
+#EXTINF:-1 tvg-name="AR | C5N SD"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s77601_ll_h3_aa.png"group-title="TV ARGENTINA PREMIUM",AR | C5N SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zRl3qXP5veTFVybzOiyvfL/m3u8
+#EXTINF:-1 tvg-name="AR | VOLVER SD"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s16879_ll_h3_aa.png"group-title="TV ARGENTINA PREMIUM",AR | VOLVER SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zgGEJCc6rnrCJcarKrPhx9/m3u8
+#EXTINF:-1 tvg-name="Argentina|| GARAGE."tvg-id=""tvg-logo="https://forounivers.com/uploads/monthly_2021_05/large.GarageTV.png.baac6b420c99240dbe09e48e58b81f08.png"group-title="TV ARGENTINA PREMIUM",Argentina|| GARAGE.
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zWzPgYXhfpwAfTsx9Rc-VD/m3u8
+#EXTINF:-1 tvg-name="AR | Television Publica HD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/ab85841ac46e1174c8865ee27fd23230.png"group-title="TV ARGENTINA PREMIUM",AR | Television Publica HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zYxmnDZY7PK9fI0cQKlaIO/m3u8
+#EXTINF:-1 tvg-name="ARG | El Nueve  HD"tvg-id=""tvg-logo="https://i.imgur.com/WkUwLeM.png"group-title="TV ARGENTINA PREMIUM",ARG | El Nueve  HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxC9t3ZaFf4y7Ei5EBotDfQI/m3u8
+#EXTINF:-1 tvg-name="AR | America TV HD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/870e3592cb0bd04a9120d2ee1f0ec8f7.png"group-title="TV ARGENTINA PREMIUM",AR | America TV HD
 https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFGDPnP-YJxmbJAMKumTUo_/m3u8
-#EXTINF:-1 xui-id="798729" tvg-id="americatv.ar" tvg-name="ARG | America" tvg-logo="https://logo.iptveditor.com/america.png" group-title="TV ARGENTINA PREMIUM",ARG | America [FHD]
+#EXTINF:-1 tvg-name="GRAN HERMANO Cam3"tvg-id=""tvg-logo="https://img.asmedia.epimg.net/resizer/u25QKI9Y4fXkEOccd38D1Y5Z1pI=/360x203/filters:focal(784x350:760x360)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/C5XBVFPW6FANLALFTFFO36JLDI.jpg"group-title="TV ARGENTINA PREMIUM",GRAN HERMANO Cam3
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFsa5Po5aOL8-3axrds9ce4/m3u8
+#EXTINF:-1 tvg-name="GRAN HERMANO Cam2"tvg-id=""tvg-logo="https://img.asmedia.epimg.net/resizer/u25QKI9Y4fXkEOccd38D1Y5Z1pI=/360x203/filters:focal(784x350:760x360)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/C5XBVFPW6FANLALFTFFO36JLDI.jpg"group-title="TV ARGENTINA PREMIUM",GRAN HERMANO Cam2
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFkXLCmJC7FAES6jVIyht6p/m3u8
+#EXTINF:-1 tvg-name="GRAN HERMANO"tvg-id=""tvg-logo="https://img.asmedia.epimg.net/resizer/u25QKI9Y4fXkEOccd38D1Y5Z1pI=/360x203/filters:focal(784x350:760x360)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/C5XBVFPW6FANLALFTFFO36JLDI.jpg"group-title="TV ARGENTINA PREMIUM",GRAN HERMANO
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWG-uQlV_NyAKijjm_qfCrzc/m3u8
+#EXTINF:-1 tvg-name="AR | TELEFE"tvg-id=""tvg-logo="http://castlempire.site:8080/images/7aaa339acbc3f286f02236ccb094ad83.png"group-title="TV ARGENTINA PREMIUM",AR | TELEFE
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHtvfdhJ1mHReMccBCFdtnH/m3u8
+#EXTINF:-1 tvg-name="AR | TELEFE FHD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/7aaa339acbc3f286f02236ccb094ad83.png"group-title="TV ARGENTINA PREMIUM",AR | TELEFE FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFGS7fzivzXaxQ8SdRXkd3E/m3u8
+#EXTINF:-1 tvg-name="AR | TELEFE HD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/7aaa339acbc3f286f02236ccb094ad83.png"group-title="TV ARGENTINA PREMIUM",AR | TELEFE HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFOrgvs1Z1uKr9aqMlnM-9H/m3u8
+#EXTINF:-1 tvg-name="CRONICA"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWMmcZCQ5tr1Wv90_JiMagFY_0XjSp1Un3g596k6BiQ&s"group-title="TV ARGENTINA PREMIUM",CRONICA
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWGOZT6yPLNbSRmlu2RH85Sr/m3u8
+#EXTINF:-1 tvg-name="CIUDAD MAGAZINE"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es"group-title="TV ARGENTINA PREMIUM",CIUDAD MAGAZINE
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWG6d1cTi22dyg_HQHTRdMAy/m3u8
+#EXTINF:-1 tvg-name="TN Noticias"tvg-id=""tvg-logo="https://i.imgur.com/Aofod44.png"group-title="TV ARGENTINA PREMIUM",TN Noticias
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFWrH_IvRxZRx75kK3LTteF/m3u8
+#EXTINF:-1 tvg-name="Aunar"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="TV ARGENTINA PREMIUM",Aunar
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFC8zvsefEzF9opN2hKvkRo/m3u8
+#EXTINF:-1 tvg-name="Argentinisima"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="TV ARGENTINA PREMIUM",Argentinisima
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFbhGU8Ro1V-m5VFg7gdYep/m3u8
+#EXTINF:-1 tvg-name="24/7 Canal de noticias"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="TV ARGENTINA PREMIUM",24/7 Canal de noticias
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWGmd71Jf-O4RG9QK-p5KnhM/m3u8
+#EXTINF:-1 tvg-name="ARG | Volver"tvg-id=""tvg-logo="https://logo.iptveditor.com/volver.png"group-title="TV ARGENTINA PREMIUM",ARG | Volver
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWGfDNkaHvUa6iWFwdOeZ4gD/m3u8
+#EXTINF:-1 tvg-name="ARG | TV Publica FHD"tvg-id=""tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TVPBLICAARGENTINA/EXPORTACION_WEB/SS/TVPBLICAARGENTINA_t-290x163.png"group-title="TV ARGENTINA PREMIUM",ARG | TV Publica FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHL1mDp1RgUKE_7qNpI4B-E/m3u8
+#EXTINF:-1 tvg-name="ARG | TV Publica"tvg-id=""tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TVPBLICAARGENTINA/EXPORTACION_WEB/SS/TVPBLICAARGENTINA_t-290x163.png"group-title="TV ARGENTINA PREMIUM",ARG | TV Publica
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWGM3VDMhm58LDq2IoU6i6Eg/m3u8
+#EXTINF:-1 tvg-name="ARG | TN HD"tvg-id=""tvg-logo="https://logo.iptveditor.com/tn.png"group-title="TV ARGENTINA PREMIUM",ARG | TN HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWF5rxljP3xnYx9CCVeWZtag/m3u8
+#EXTINF:-1 tvg-name="ARG | Telefe FHD"tvg-id=""tvg-logo="https://logo.iptveditor.com/telefe.png"group-title="TV ARGENTINA PREMIUM",ARG | Telefe FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEM7AzwdtGqPQeqMxeBD-Ao/m3u8
+#EXTINF:-1 tvg-name="ARG | Telefe"tvg-id=""tvg-logo="https://logo.iptveditor.com/telefe.png"group-title="TV ARGENTINA PREMIUM",ARG | Telefe
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEp2hh7virAjzrfp87HkrUO/m3u8
+#EXTINF:-1 tvg-name="ARG | NET TV"tvg-id=""tvg-logo="https://logo.iptveditor.com/nettv.png"group-title="TV ARGENTINA PREMIUM",ARG | NET TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHeBZvQPNkRf5Wc9Z_ZpSw9/m3u8
+#EXTINF:-1 tvg-name="ARG | LN+"tvg-id=""tvg-logo="https://logo.iptveditor.com/ln.png"group-title="TV ARGENTINA PREMIUM",ARG | LN+
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHU3YsO7-4DYJnIYY8oed2r/m3u8
+#EXTINF:-1 tvg-name="ARG | El Trece  HD"tvg-id=""tvg-logo="https://logo.iptveditor.com/eltrece.png"group-title="TV ARGENTINA PREMIUM",ARG | El Trece  HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEHs9XJzjTt2euJzgaNs7H5/m3u8
+#EXTINF:-1 tvg-name="ARG | Cronica TV"tvg-id=""tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CRNICATVHD/EXPORTACION_WEB/SS/CRNICATVHD_t-290x163.png"group-title="TV ARGENTINA PREMIUM",ARG | Cronica TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFEYsZw86u1wXEeZFDFSckh/m3u8
+#EXTINF:-1 tvg-name="ARG | Cine AR"tvg-id=""tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CINEAR/EXPORTACION_WEB/SS/CINEAR_t-290x163.png"group-title="TV ARGENTINA PREMIUM",ARG | Cine AR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWH3Sq01brWh0TpQBkFclytG/m3u8
+#EXTINF:-1 tvg-name="ARG | America"tvg-id="americatv.ar"tvg-logo="https://logo.iptveditor.com/america.png"group-title="TV ARGENTINA PREMIUM",ARG | America
 https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFfLTQCt4uBSUuesv3r4E-c/m3u8
+#EXTINF:-1 tvg-name="A24"tvg-id=""tvg-logo="https://i.imgur.com/cEwtZRU.png"group-title="TV ARGENTINA PREMIUM",A24
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqNhHJ341-VFMt9sh2-dck3/m3u8
+#EXTINF:-1 tvg-name="CANAL 13 RIO CUARTO"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStv0mffHJU0I3sAP5Bw9Sk8eDsDkBRxSljwVkdm6jMU0PPHY1h80ISXappgHbkDxB_La4&usqp=CAU"group-title="TV ARGENTINA PREMIUM",CANAL 13 RIO CUARTO
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxrNTh2dOo6QOxqyPeOZ5TxO/m3u8
+#EXTINF:-1 tvg-name="ARG - VER TV"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUuk2eK30VLGHUUSRMHqdFVSmqoA9tcaZ4UZINGGp_Q&s"group-title="TV ARGENTINA PREMIUM",ARG - VER TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoYY9eObH5v8Ap9Jhi383Je/m3u8
+#EXTINF:-1 tvg-name="LA NACION+"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqtZB_6WG36RuIrX7Npa_XgoeV-KK74HcQ7m9xWQcKI7E=s900-c-k-c0x00ffffff-no-rj"group-title="TV ARGENTINA PREMIUM",LA NACION+
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxqtvMfvpmOBVntolhC54oTe/m3u8
+#EXTINF:-1 tvg-name="CANAL A24"tvg-id=""tvg-logo="https://www.minutoneuquen.com/u/fotografias/m/2022/2/18/f638x638-528224_586391_5050.png"group-title="TV ARGENTINA PREMIUM",CANAL A24
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTVYvQSh7ArwNsG9ybUjfxoaExlBQtyveomhh6_QoIUF/m3u8
+#EXTINF:-1 tvg-name="TLNOVELAS FHD"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s37232_ll_h3_ab.png"group-title="⭐ | TV NOVELAS",TLNOVELAS FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYoVwDaTypoP7xEBR5C-AHO9/m3u8
+#EXTINF:-1 tvg-name="TLNOVELAS UNIVISION HD"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s74550_ll_h3_ab.png"group-title="⭐ | TV NOVELAS",TLNOVELAS UNIVISION HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYoYQj-IuSWJ81BRDjkBEmZo/m3u8
+#EXTINF:-1 tvg-name="PASIONES HD"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png"group-title="⭐ | TV NOVELAS",PASIONES HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYp2RWCiHf05e5CATC1-RGHu/m3u8
+#EXTINF:-1 tvg-name="NOTI | TELESUR"tvg-id=""tvg-logo="http://svtv.xyz:8000/images/3da7c19994cb2889383b2f99bca4c635.png"group-title="⭐ | TV NOTICIAS",NOTI | TELESUR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eHvJdByYS_Pe-NUKMWP4ZLu/m3u8
+#EXTINF:-1 tvg-name="NOTI | HISPAN TV"tvg-id=""tvg-logo="http://svtv.xyz:8000/images/fe8fb1ca3efd1c97472d26a5f17031b2.png"group-title="⭐ | TV NOTICIAS",NOTI | HISPAN TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eFLUxaZNEOUqpJ59xGciRsp/m3u8
+#EXTINF:-1 tvg-name="NOTI | RT EN ESPANOL"tvg-id=""tvg-logo="http://svtv.xyz:8000/images/5b278c5acc0456d50aa7f723fdd0c858.png"group-title="⭐ | TV NOTICIAS",NOTI | RT EN ESPANOL
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eHoHQS8f8tJS_hl_u_zgOYE/m3u8
+#EXTINF:-1 tvg-name="CNN CHILE"tvg-id=""tvg-logo=""group-title="⭐ | TV NOTICIAS",CNN CHILE
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxCYFZ_zEkUL4_P1y0xYetfm/m3u8
+#EXTINF:-1 tvg-name="NOT| CNN EN ESPAL"tvg-id=""tvg-logo="https://logo.iptveditor.com/cnnenespaol.png"group-title="⭐ | TV NOTICIAS",NOT| CNN EN ESPAL
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxCfAYtp6QKYRSCr_9N1sS99/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | BABY TV HD"tvg-id=""tvg-logo="http://daleplaypro.com:8080/images/07d716b7a2daab061d6ea4121f11d31e.png"group-title="⭐ | TV INFANTILES",NIÑOS | BABY TV HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYq4o5gW1VegvkMM72FnGCWa/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | BABY TV FHD"tvg-id=""tvg-logo="http://daleplay.club:8080/images/07d716b7a2daab061d6ea4121f11d31e.png"group-title="⭐ | TV INFANTILES",NIÑOS | BABY TV FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYoEPRCAHNjJkDcbOd3o0KM_/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | NICK HD"tvg-id=""tvg-logo="http://daleplaypro.com:8080/images/aa751d00697408024bca5ef69d02b5ee.png"group-title="⭐ | TV INFANTILES",NIÑOS | NICK HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYo6a7KADQLmhgaAyD0csG8c/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | NICK 2 HD"tvg-id=""tvg-logo="http://daleplay.club:8080/images/fca21adc35170a5bda5d664e14b08295.png"group-title="⭐ | TV INFANTILES",NIÑOS | NICK 2 HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYp6QhpLdIhT56wNT-gPb0pI/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | NICK JR HD"tvg-id=""tvg-logo="http://daleplaypro.com:8080/images/9760c7476e6274990edda067e059d332.png"group-title="⭐ | TV INFANTILES",NIÑOS | NICK JR HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYppjJAL2W87u-Tg_NmrBhr2/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | NICK JR SD"tvg-id=""tvg-logo="http://daleplay.club:8080/images/9760c7476e6274990edda067e059d332.png"group-title="⭐ | TV INFANTILES",NIÑOS | NICK JR SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYq1Lfi08_-gN2CKLn_-PU55/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | DISNEY JR HD"tvg-id=""tvg-logo="http://daleplaypro.com:8080/images/627e7fa12773e20f3d430dd147f39c1d.png"group-title="⭐ | TV INFANTILES",NIÑOS | DISNEY JR HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYq9_t1olb1EliYpo743AYHg/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | DISNEY JR SD"tvg-id=""tvg-logo="http://daleplay.club:8080/images/627e7fa12773e20f3d430dd147f39c1d.png"group-title="⭐ | TV INFANTILES",NIÑOS | DISNEY JR SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYrmIUI5mOaVwi0f9lrYsE7h/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | DISNEY CHANNEL SD"tvg-id=""tvg-logo="http://daleplay.club:8080/images/1af27c4b7880c46b862f41093b2222a3.png"group-title="⭐ | TV INFANTILES",NIÑOS | DISNEY CHANNEL SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYpoy0gY7_BPqhg5IxhjqNJR/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | DISNEY CHANNEL"tvg-id=""tvg-logo="http://daleplay.club:8080/images/1af27c4b7880c46b862f41093b2222a3.png"group-title="⭐ | TV INFANTILES",NIÑOS | DISNEY CHANNEL
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYquiz5O8af91F_N9PLfqmOC/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | DISCOVERY KIDS  HD"tvg-id=""tvg-logo="http://daleplay.club:8080/images/0709ebf7999dae6684fc2c945ae315ef.png"group-title="⭐ | TV INFANTILES",NIÑOS | DISCOVERY KIDS  HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYoD_oU5gazIwrKxArwogdDi/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | DISCOVERY KIDS FHD"tvg-id=""tvg-logo="http://daleplay.club:8080/images/0709ebf7999dae6684fc2c945ae315ef.png"group-title="⭐ | TV INFANTILES",NIÑOS | DISCOVERY KIDS FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYpfeC1XoZvNcXdErQUzXeH_/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | TOONCAST HD"tvg-id=""tvg-logo="http://daleplaypro.com:8080/images/ebdac901ea46a900977d3f1b260823f2.png"group-title="⭐ | TV INFANTILES",NIÑOS | TOONCAST HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYoMZgpIy2oQWZ5qyXuxI0DP/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | TOONCAST"tvg-id=""tvg-logo="http://daleplay.club:8080/images/07d716b7a2daab061d6ea4121f11d31e.png"group-title="⭐ | TV INFANTILES",NIÑOS | TOONCAST
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYpBQOeS9iOAHguI_GR1ytrC/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | BOOMERANG"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png"group-title="⭐ | TV INFANTILES",NIÑOS | BOOMERANG
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYrHZhM6lrLk24vpA8g1Y_cz/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | CARTOON NETWORK"tvg-id="cartoonnetwork.mx"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/1000px-Cartoon_Network_logo_%282004-2010%29.svg.png"group-title="⭐ | TV INFANTILES",NIÑOS | CARTOON NETWORK
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYq8S1znla72Nc1vOEve31S_/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | CARTOON NETWORK HD"tvg-id="CARTDA"tvg-logo="http://fanc.tmsimg.com/assets/s59562_ll_h3_aa.png"group-title="⭐ | TV INFANTILES",NIÑOS | CARTOON NETWORK HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYr_-rvT4sXmu7ecp3TQE0A0/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | NICKTOON"tvg-id=""tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo.png"group-title="⭐ | TV INFANTILES",NIÑOS | NICKTOON
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYqOEE2fbAOveb7JIYWnw1qX/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | NICKLODEON"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Nickelodeon_1993.svg/revision/latest?cb=20210820185041&path-prefix=es"group-title="⭐ | TV INFANTILES",NIÑOS | NICKLODEON
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYr1dhdzwjchCTHwzp_nvJwo/m3u8
+#EXTINF:-1 tvg-name="NIÑOS | NICK SD"tvg-id=""tvg-logo="http://daleplay.club:8080/images/aa751d00697408024bca5ef69d02b5ee.png"group-title="⭐ | TV INFANTILES",NIÑOS | NICK SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTkdyVT9hkIjalYKS94INYrsr-6oIINWb9c-l861GNRV/m3u8
+#EXTINF:-1 tvg-name="CARTOONITO"tvg-id=""tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/dftmwp8-8a21a25c-5d5b-4f2a-a12a-8b51584fed4e.png/v1/fill/w_1280,h_417/new_cartoonito_logo_by_abfan21_dftmwp8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDE3IiwicGF0aCI6IlwvZlwvMTUwODFlYmUtYTg2YS00ZDZiLTlmYzktMjNkOWQ3OTliMWExXC9kZnRtd3A4LThhMjFhMjVjLTVkNWItNGYyYS1hMTJhLThiNTE1ODRmZWQ0ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RA8ZK18Zamsl3uyYcqwYJkT-H-ptwwY1_JdaFOeK7K4"group-title="⭐ | TV INFANTILES",CARTOONITO
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eFQCsbPileTrVrQRmQ4MHtY/m3u8
+#EXTINF:-1 tvg-name="CUL | ANIMAL PLANET FHD"tvg-id=""tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png"group-title="⭐ | TV CULTURA",CUL | ANIMAL PLANET FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yHGGhlrHc7kXhC6YM33QwP/m3u8
+#EXTINF:-1 tvg-name="CUL | ANIMAL PLANET HD"tvg-id=""tvg-logo="https://static.epg.best/mx/AnimalPlanet.mx.png"group-title="⭐ | TV CULTURA",CUL | ANIMAL PLANET HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xMnHwk9SZWXTtLP5aHkk6z/m3u8
+#EXTINF:-1 tvg-name="CUL | ANTENA 3 INTERNACIONAL | FHD"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s16800_ll_h3_aa.png"group-title="⭐ | TV CULTURA",CUL | ANTENA 3 INTERNACIONAL | FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wIwhBN3X18iyz4MRiSlcGq/m3u8
+#EXTINF:-1 tvg-name="CUL | ANTENA 3 ESPAÑA SD."tvg-id=""tvg-logo="https://static.epg.best/es/Antena3.es.png"group-title="⭐ | TV CULTURA",CUL | ANTENA 3 ESPAÑA SD.
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yXw0_vnCWgXM7F6yxVHHOZ/m3u8
+#EXTINF:-1 tvg-name="CUL | AZTECA CINEMA"tvg-id=""tvg-logo="https://static.epg.best/us/Azteca.us.png"group-title="⭐ | TV CULTURA",CUL | AZTECA CINEMA
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zUAgvx8fD9G7MI8FtwH3hZ/m3u8
+#EXTINF:-1 tvg-name="CUL | AZTECA UNO -2"tvg-id=""tvg-logo="https://static.epg.best/us/Azteca.us.png"group-title="⭐ | TV CULTURA",CUL | AZTECA UNO -2
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1w2Mfqh-jnTIQHqPNeYPDIR/m3u8
+#EXTINF:-1 tvg-name="CUL | CASA & PEZCA FHD"tvg-id=""tvg-logo="https://i.imgur.com/X18tLOR.png"group-title="⭐ | TV CULTURA",CUL | CASA & PEZCA FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zZdl3p8ppA8OiWmSqB3U8G/m3u8
+#EXTINF:-1 tvg-name="CUL | COMEDY CENTRAL SD"tvg-id=""tvg-logo="https://static.epg.best/mx/ComedyCentral.mx.png"group-title="⭐ | TV CULTURA",CUL | COMEDY CENTRAL SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x8bAclgNduSLpWRy1ueMYH/m3u8
+#EXTINF:-1 tvg-name="CUL | COMEDY CENTRAL FHD."tvg-id=""tvg-logo="https://static.epg.best/mx/ComedyCentral.mx.png"group-title="⭐ | TV CULTURA",CUL | COMEDY CENTRAL FHD.
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zXGDVYk36t72VzzvkEbPpX/m3u8
+#EXTINF:-1 tvg-name="CUL | COMEDY CENTRAL MEXICO"tvg-id=""tvg-logo="https://static.epg.best/mx/DistritoComedia.mx.png"group-title="⭐ | TV CULTURA",CUL | COMEDY CENTRAL MEXICO
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1y8KziqSs-mX-vVZoF6KV4J/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY CHANNEL"tvg-id=""tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY CHANNEL
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xfBMsfSy7FsdEfqdObufpr/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY CHANNEL HD"tvg-id=""tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY CHANNEL HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x3sU4ImGcdaYXpuO8CX7k4/m3u8
+#EXTINF:-1 tvg-name="CUL | HGTV FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png"group-title="⭐ | TV CULTURA",CUL | HGTV FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wK6Ba8cbG2T5m1IzynVX-S/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY FAMILIA FHD"tvg-id=""tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY FAMILIA FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zI51rYtfIi51D583NIV8if/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY H&H |"tvg-id=""tvg-logo="https://i.pinimg.com/originals/6b/27/ae/6b27ae3d4938bf5775b656c19ff4fca6.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY H&H |
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zQJZdjahjDezmW3uVUIiwP/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY H&H | HD"tvg-id=""tvg-logo="https://i.pinimg.com/originals/6b/27/ae/6b27ae3d4938bf5775b656c19ff4fca6.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY H&H | HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xRqbtNN14ofLsRN26Oqikz/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY ID."tvg-id=""tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY ID.
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zcV3qC3G75nGialpToM_jT/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY ID ®"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY ID ®
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wv3uXXdUJCRggzlSE0_oAp/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY SCIENCE FHD"tvg-id=""tvg-logo="https://static.epg.best/pa/DiscoveryScienceLatinAmerica.pa.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY SCIENCE FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xOuwdUVs6qOWcVvORljGML/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY SCIENCE HD"tvg-id=""tvg-logo="https://static.epg.best/pa/DiscoveryScienceLatinAmerica.pa.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY SCIENCE HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wen4OK-U9eB3SGDSFs8U_v/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY THEATER | FHD -"tvg-id=""tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY THEATER | FHD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xAzQ3I-sPal1tvvLT_SyrO/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY THEATER HD"tvg-id=""tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY THEATER HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wTByndV_0TV-hPZ4dxycwF/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY TURBO SD"tvg-id=""tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY TURBO SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wPmFAOVU2r0bm3k_80P9Ex/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY TURBO | HD"tvg-id=""tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY TURBO | HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x1FakOy4qGihnpGg_BhMOs/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY WORLD SD"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s66488_ll_h3_aa.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY WORLD SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x4DzJQvNmogTGD-uA3nY9H/m3u8
+#EXTINF:-1 tvg-name="CUL | DISCOVERY WORLD FHD"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s66488_ll_h3_aa.png"group-title="⭐ | TV CULTURA",CUL | DISCOVERY WORLD FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z9JRfVreV1A0C1mGQ_uqWc/m3u8
+#EXTINF:-1 tvg-name="CUL | DW EN ESPAÑOL FHD"tvg-id=""tvg-logo="https://static.epg.best/de/DeutscheWelleEs.de.png"group-title="⭐ | TV CULTURA",CUL | DW EN ESPAÑOL FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wlrCQzCgjv2aPsA8i1APV0/m3u8
+#EXTINF:-1 tvg-name="CUL | DW | FHD"tvg-id=""tvg-logo="https://static.epg.best/de/DeutscheWelleEs.de.png"group-title="⭐ | TV CULTURA",CUL | DW | FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zLOmv-BdSvpi4UUDHzjEcL/m3u8
+#EXTINF:-1 tvg-name="CUL | E! ENTERTAINMENT HD -"tvg-id=""tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png"group-title="⭐ | TV CULTURA",CUL | E! ENTERTAINMENT HD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x3YylN2LeDAMcBJpTFBydX/m3u8
+#EXTINF:-1 tvg-name="CUL | E! ENTERTAINMENT FHD"tvg-id=""tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png"group-title="⭐ | TV CULTURA",CUL | E! ENTERTAINMENT FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wGdwR0Nbbn15Cg7RESWpTp/m3u8
+#EXTINF:-1 tvg-name="CUL | FOOD NETWORK HD"tvg-id=""tvg-logo="https://static.epg.best/us/FoodNetwork.us.png"group-title="⭐ | TV CULTURA",CUL | FOOD NETWORK HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yZDGSv3A-ncA0gvbylmpZk/m3u8
+#EXTINF:-1 tvg-name="CUL | FOOD NETWORK HD -"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png"group-title="⭐ | TV CULTURA",CUL | FOOD NETWORK HD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xONL6Khb4GpV5xJHWJveoK/m3u8
+#EXTINF:-1 tvg-name="CUL | GARAGE TV HD"tvg-id=""tvg-logo="https://i.imgur.com/M0ZqURk.png"group-title="⭐ | TV CULTURA",CUL | GARAGE TV HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yzzAlbzAPGDCvVfOAeCO9G/m3u8
+#EXTINF:-1 tvg-name="CUL | GLITZ 720"tvg-id=""tvg-logo="https://static.epg.best/mx/Glitz.mx.png"group-title="⭐ | TV CULTURA",CUL | GLITZ 720
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yq8qM3gwW1rbWUu2Gn9JCR/m3u8
+#EXTINF:-1 tvg-name="CUL | GLITZ FHD"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s61514_ll_h3_aa.png"group-title="⭐ | TV CULTURA",CUL | GLITZ FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xXBlUsIoWIBRuKWZZZ0pUS/m3u8
+#EXTINF:-1 tvg-name="CUL | GOURMET FHD"tvg-id=""tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png"group-title="⭐ | TV CULTURA",CUL | GOURMET FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wqVtyDDiLOVTyGcZRTdoME/m3u8
+#EXTINF:-1 tvg-name="CUL | GOURMET HD -"tvg-id=""tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png"group-title="⭐ | TV CULTURA",CUL | GOURMET HD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1w-0irzdX7hn3X2pr3RhR89/m3u8
+#EXTINF:-1 tvg-name="CUL | HGTV HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png"group-title="⭐ | TV CULTURA",CUL | HGTV HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zjvnryNNGlzEopXixUlicg/m3u8
+#EXTINF:-1 tvg-name="CUL | HISTORY 2"tvg-id=""tvg-logo="https://static.epg.best/mx/History2.mx.png"group-title="⭐ | TV CULTURA",CUL | HISTORY 2
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wofKH6J3_n5AaDt-HeLIpJ/m3u8
+#EXTINF:-1 tvg-name="CUL | HISTORY 2 FHD."tvg-id=""tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png"group-title="⭐ | TV CULTURA",CUL | HISTORY 2 FHD.
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yvJcE7UV1BihSLmklyxnpW/m3u8
+#EXTINF:-1 tvg-name="CUL | HISTORY HD *"tvg-id=""tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png"group-title="⭐ | TV CULTURA",CUL | HISTORY HD *
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yFkZQygGBCKHzI4eiKkXPa/m3u8
+#EXTINF:-1 tvg-name="CUL | HISTORY FHD"tvg-id=""tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png"group-title="⭐ | TV CULTURA",CUL | HISTORY FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yDipmw0rrTiLHP9nASRJ_B/m3u8
+#EXTINF:-1 tvg-name="CUL | HOLA TV HD"tvg-id=""tvg-logo="https://static.epg.best/co/HolaTv.co.png"group-title="⭐ | TV CULTURA",CUL | HOLA TV HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yt_DpiRtIj-RVAOP1qKpZ0/m3u8
+#EXTINF:-1 tvg-name="CUL | LIFETIME HD"tvg-id=""tvg-logo="https://static.epg.best/mx/Lifetime.mx.png"group-title="⭐ | TV CULTURA",CUL | LIFETIME HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wJXVRxh9HbTbna2ae8MOM2/m3u8
+#EXTINF:-1 tvg-name="CUL | LIFETIME 2"tvg-id=""tvg-logo="https://static.epg.best/mx/Lifetime.mx.png"group-title="⭐ | TV CULTURA",CUL | LIFETIME 2
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zJ3OfNG7I4tU9dfkm6E1aA/m3u8
+#EXTINF:-1 tvg-name="CUL | LOVE NATURE HD"tvg-id=""tvg-logo="https://static.epg.best/ca/LoveNature.ca.png"group-title="⭐ | TV CULTURA",CUL | LOVE NATURE HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wd4nyaY7BwSaD1aYgo9Anq/m3u8
+#EXTINF:-1 tvg-name="CUL | LOVE NATURE FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png"group-title="⭐ | TV CULTURA",CUL | LOVE NATURE FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wfff62eaGg4SLT2tTkEU0r/m3u8
+#EXTINF:-1 tvg-name="CUL | MAS CHIC HD"tvg-id=""tvg-logo="https://static.epg.best/mx/MasChicTV.mx.png"group-title="⭐ | TV CULTURA",CUL | MAS CHIC HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xOoI7hXb6b6C6y_pkya0Qt/m3u8
+#EXTINF:-1 tvg-name="CUL | NASA TV FHD"tvg-id=""tvg-logo="https://static.epg.best/rs/Nasa.rs.png"group-title="⭐ | TV CULTURA",CUL | NASA TV FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zg2GFNVcfm0lSNZPa59s0F/m3u8
+#EXTINF:-1 tvg-name="CUL | NATGEO FHD"tvg-id=""tvg-logo="https://static.epg.best/mx/NatGeo.mx.png"group-title="⭐ | TV CULTURA",CUL | NATGEO FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xKiy4qDPahk4k0LMpQBWhX/m3u8
+#EXTINF:-1 tvg-name="CUL | NATGEO WILD FHD"tvg-id=""tvg-logo="https://static.epg.best/mx/NatGeo.mx.png"group-title="⭐ | TV CULTURA",CUL | NATGEO WILD FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wLmaZhdkte1aNrODPxV6VU/m3u8
+#EXTINF:-1 tvg-name="CUL | NATGEO WILD"tvg-id=""tvg-logo="http://todoplus.digital:8080/images/QNhoAepLnX2AaVVINg7vl70gI10TYFtS0lm7HvtWbT2G5RsI0xdFp6Yiza35wuVwxXw-99bv4E5KkrUXod3OpA.png"group-title="⭐ | TV CULTURA",CUL | NATGEO WILD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wXDtiDPPmsrnGE3mVNTr35/m3u8
+#EXTINF:-1 tvg-name="CUL | NATGEO HD"tvg-id=""tvg-logo="https://archive.org/download/nat-geo-wild-logo_202206/Nat_Geo_Wild_logo.png"group-title="⭐ | TV CULTURA",CUL | NATGEO HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x9RFwmphs1Q6ltiHNd3CxK/m3u8
+#EXTINF:-1 tvg-name="CUL | SMITHSONIAN CHANNEL"tvg-id=""tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png"group-title="⭐ | TV CULTURA",CUL | SMITHSONIAN CHANNEL
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yrBzhQUGx_V54na_B9ltXa/m3u8
+#EXTINF:-1 tvg-name="CUL | TASTEMADE  HD"tvg-id=""tvg-logo="https://i.imgur.com/XDMqqSs.png"group-title="⭐ | TV CULTURA",CUL | TASTEMADE  HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wQciH61wzVSsl5jNwYKxH9/m3u8
+#EXTINF:-1 tvg-name="CUL | TLC FHD -"tvg-id=""tvg-logo="https://static.epg.best/mx/TLC.mx.png"group-title="⭐ | TV CULTURA",CUL | TLC FHD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wrR7AObLyrvCeWN7utFydG/m3u8
+#EXTINF:-1 tvg-name="CUL | TLC HD"tvg-id=""tvg-logo="https://static.epg.best/mx/TLC.mx.png"group-title="⭐ | TV CULTURA",CUL | TLC HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z8riDGW-2ynX-fXXb1KHDT/m3u8
+#EXTINF:-1 tvg-name="CU | 1️⃣ NATURE TIME"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/bhjMF7CRaciTCJg_SPJH_tztKsF1P1TFl8HbgO64-USdM57m2ZBwo1OrBIduX7QzMOoglLh7cTQ=s900-c-k-c0x00ffffff-no-rj"group-title="⭐ | TV CULTURA",CU | 1️⃣ NATURE TIME
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWGxgKy8QHBCZPb_wQIPLi8z/m3u8
+#EXTINF:-1 tvg-name="STAR CHANNEL SUR"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png"group-title="⭐ | STAR Y UNIVERSAL",STAR CHANNEL SUR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eG-xyQfXota-gpgRcNcLptU/m3u8
+#EXTINF:-1 tvg-name="STAR CHANNEL NORTE"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png"group-title="⭐ | STAR Y UNIVERSAL",STAR CHANNEL NORTE
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eFFeN3ZolLNnRcZZF9JHJEF/m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL CINEMA"tvg-id=""tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png"group-title="⭐ | STAR Y UNIVERSAL",UNIVERSAL CINEMA
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eGDSlroD71kDSaBLfMq37xS/m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL CRIME"tvg-id=""tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png"group-title="⭐ | STAR Y UNIVERSAL",UNIVERSAL CRIME
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eHJzL6spbSP7Xe3bv-d_R2x/m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL PREMIERE SUR"tvg-id=""tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png"group-title="⭐ | STAR Y UNIVERSAL",UNIVERSAL PREMIERE SUR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eEkksYl8gTxDvQ8uH72CqIo/m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL REALITY"tvg-id=""tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png"group-title="⭐ | STAR Y UNIVERSAL",UNIVERSAL REALITY
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eEiRe8ijFDYH40VEPQOfmlJ/m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL COMEDY"tvg-id=""tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png"group-title="⭐ | STAR Y UNIVERSAL",UNIVERSAL COMEDY
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eGYQC-DAOg6GbzULISdkKFF/m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL PREMIERE NORTE"tvg-id=""tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png"group-title="⭐ | STAR Y UNIVERSAL",UNIVERSAL PREMIERE NORTE
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eH5zT5LrC9_ICGmHwyxo6E6/m3u8
+#EXTINF:-1 tvg-name="CINE | STUDIO CHANEL FHD"tvg-id=""tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png"group-title="⭐ | STAR Y UNIVERSAL",CINE | STUDIO CHANEL FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zFK8anCnToFCbbdTNciStt/m3u8
+#EXTINF:-1 tvg-name="Universal Channel"tvg-id=""tvg-logo="http://fastv.lat:80/images/abb11ea09ce3252ef2fdf81fc324b88c.png"group-title="⭐ | STAR Y UNIVERSAL",Universal Channel
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxDKe_FnXoTVvdePcCzmmvEk/m3u8
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL"tvg-id=""tvg-logo="https://go.plugtv.fun:443/images/3VjJ1YniCgMX0sPnXMuWLfV1GWIexNP5vsah2XlNADciG6tIMcdDoIw4H1CKg6Gy6yur0UodN3WCivPwSif-qNfCd8ObtSj6xlAYEkKvAexiBjSRcJN7RmBmR93-Btkg.png"group-title="⭐ | STAR Y UNIVERSAL",STUDIO UNIVERSAL
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEAJNdj1OvVg0Cxva_20f6d/m3u8
+#EXTINF:-1 tvg-name="STAR Channel FHD"tvg-id="I209.15688.schedulesdirect.org"tvg-logo="http://zonamovie.live:8008/images/8a030c3b4a412a946aa27139bbd4a3be.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",STAR Channel FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eEjy-imO6E4lQR05JXHaTEb/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | A&E FHD -"tvg-id="I6.18955.schedulesdirect.org"tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | A&E FHD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zfgtgToxuvLrNOMv8r_oF2/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | A&E HD"tvg-id="I223.18955.schedulesdirect.org"tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | A&E HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z52OEMjbDYl6LOFbHoNiP_/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | AMC FHD"tvg-id="I611.90653.schedulesdirect.org"tvg-logo="https://www.carlost.net/wp-content/uploads/2014/08/Logo-AMC.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | AMC FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xPlQ-EYDXGtqeE053pKsqX/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | ATRESERIES -"tvg-id="I58.90898.schedulesdirect.org"tvg-logo="https://www.cineytele.com/wp-content/uploads/2016/12/AtresSerie-Logo.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | ATRESERIES -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wsMgreOr_8GN1GpEUtsPiB/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | ATRESERIES HQ"tvg-id="I58.90898.schedulesdirect.org"tvg-logo="https://www.cineytele.com/wp-content/uploads/2016/12/AtresSerie-Logo.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | ATRESERIES HQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wJQWdLDW_UktoCA8xi3bkh/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | AXN HD -"tvg-id="I78.72534.schedulesdirect.org"tvg-logo="https://i.dlpng.com/static/png/400902_preview.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | AXN HD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zUXeO6S-Zzp27svDyxS56s/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | AXN FHD"tvg-id="I78.72534.schedulesdirect.org"tvg-logo="https://i.dlpng.com/static/png/400902_preview.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | AXN FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xe1QsRtJTs_S500VDrJ5ga/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | CINE LATINO"tvg-id="I125.15296.schedulesdirect.org"tvg-logo="http://127.0.0.1/"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | CINE LATINO
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zgrEeroa5hfTVXlzOcPE0X/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | CINECANAL FHD"tvg-id="I132.67687.schedulesdirect.org"tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | CINECANAL FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x_xIleEzZRQoANkRdyG7Go/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | CINECANAL HD -"tvg-id="I624.16435.schedulesdirect.org"tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | CINECANAL HD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xTzEZImuR5UEkSkN8oHGXH/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | CINEMA DINAMITA HD"tvg-id=""tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | CINEMA DINAMITA HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1ySrNFyWj28xK7c1R-6t-eA/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | CINEMA DINAMITA HQ"tvg-id=""tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | CINEMA DINAMITA HQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zKuLag20YoG1xtB-Sv_NQL/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | CINEMAX FHD"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapWv0ZtvCDDJbWxrh_B-9xTzIpgcamrL0Hl7QU6_hzmT9YorrLtKqi1KOf99Rdj2fjZU&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | CINEMAX FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z3Er_yeZAno47jA4tTwC4X/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | CINEMAX HD *"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapWv0ZtvCDDJbWxrh_B-9xTzIpgcamrL0Hl7QU6_hzmT9YorrLtKqi1KOf99Rdj2fjZU&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | CINEMAX HD *
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xnmPQ7XGLtTiLCwenXjI4_/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | DE PELICULA PLUS"tvg-id=""tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | DE PELICULA PLUS
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yBsjLLcbjSNI2KB1cpjbky/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | DE PELICULAS CLASICO FHD"tvg-id=""tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | DE PELICULAS CLASICO FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xJGOXjR2HoJTpjMCIFfAxq/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | DHE FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | DHE FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zLQyryU9z27VXpeLHjCnqk/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | DHE HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | DHE HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1y0o5SD-2X7dUmvf3naq7lg/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | FILM & ARTS FHD"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNpsw81Sk4WqgDl5Pk0BZWu7740GNi_mEAtw&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | FILM & ARTS FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zZkc6NgZiM9NQEPSIjSwQs/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | FX FHD"tvg-id=""tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | FX FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zFxro3jYlSAwtw0BnNLo99/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | FX HD ®"tvg-id=""tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | FX HD ®
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zwzIReMkxI5mA4fEATiWOM/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | GOLDEN EDGE FHD ????"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | GOLDEN EDGE FHD ????
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1w9L2RsSQ83ltVSr7Z47bPf/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | GOLDEN EDGE HQ"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | GOLDEN EDGE HQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xyUcDJlDcVPPdDB_4zc4SY/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | GOLDEN FHD"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | GOLDEN FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xBLQkE3Bcb2-iUBlmC7Hx8/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | GOLDEN HD"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | GOLDEN HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yiU-rTDlm-45yMPPi0a4sU/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | GOLDEN PLUS"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfPAfYQMBjlLveOOYfg-4RSj7VSTmctWclQ&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | GOLDEN PLUS
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wbDmnMO-LhGrDfs1A7DgXB/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | GOLDEN PLUS FHD -"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfPAfYQMBjlLveOOYfg-4RSj7VSTmctWclQ&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | GOLDEN PLUS FHD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wGUm2ORsErPRrotBu6cUwv/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | GOLDEN PREMIER HD"tvg-id=""tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | GOLDEN PREMIER HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1y8v6Uc4L1YOj92ngq1zshC/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | GOLDEN PREMIER HQ"tvg-id=""tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | GOLDEN PREMIER HQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1y58axk6AgBJbe5O6cf8uPj/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO 2 FHD"tvg-id=""tvg-logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/HBO2.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO 2 FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1znZZs_SzZm3BzRWhKKxPiC/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO 2 HD"tvg-id=""tvg-logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/HBO2.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO 2 HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xbWx7g8SF0HxXaWOXFt68n/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO FAMILY FHD"tvg-id=""tvg-logo="https://d144mzi0q5mijx.cloudfront.net/img/H/B/HBO-Family.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO FAMILY FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xW6gSGd4V1KAnknQcuQqnZ/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO FAMILY HD *"tvg-id=""tvg-logo="https://d144mzi0q5mijx.cloudfront.net/img/H/B/HBO-Family.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO FAMILY HD *
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zgHdVYJbq1kV8CIlNTjwgO/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO SUR"tvg-id=""tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO SUR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z8OYrFuEIQKOgHNf3k_srf/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO"tvg-id=""tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wRHXJveOdwX2CryAeaX65j/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO MUNDI HQ"tvg-id=""tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddoicif-5c26565c-0b8a-4e12-ab2c-3445915f66e2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNmEzMWJjLTUyNzYtNGJkMS1iMjVjLTVkMjI5OTkwNjUxY1wvZGRvaWNpZi01YzI2NTY1Yy0wYjhhLTRlMTItYWIyYy0zNDQ1OTE1ZjY2ZTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8hppAoC3nmeoQdtyGR04J948j3F_OEtAjUmB0pF7bD8"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO MUNDI HQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z18imb8KCXw2S1G4oWhtqA/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO PLUS FHD"tvg-id=""tvg-logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO PLUS FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1w571bZrZV4SEkC5dxIacL0/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO PLUS HD *"tvg-id=""tvg-logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO PLUS HD *
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zsRK-ajIW7gRC5DqBqrZvC/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO POP HD -"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVnMHcQQbV1arQqL1aXSdsPQjQOS1BoB_zOB1rOphseF5cNjelO7wA6blvVo9lA8b6N8E&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO POP HD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wqpHlaYYHUWtMlofFfGfWa/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO SIGNATURE HD"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-ZqLiBW9RJWA/X6DeXyrPj0I/AAAAAAAAKiI/Q_7ZpvOFmV4ThYcFBDlkUBXJegmG4CPVACLcBGAsYHQ/w680/hbo%2Bsignature.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO SIGNATURE HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xkpOYb9colQKk-SuqVkUb9/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO SIGNATURE | HQ"tvg-id=""tvg-logo="https://1.bp.blogspot.com/-ZqLiBW9RJWA/X6DeXyrPj0I/AAAAAAAAKiI/Q_7ZpvOFmV4ThYcFBDlkUBXJegmG4CPVACLcBGAsYHQ/w680/hbo%2Bsignature.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO SIGNATURE | HQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x8LxF9k_AlGCEkfJ5gWJA1/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO XTREME HD"tvg-id=""tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpgt7p-e56bd6a5-5392-4dba-b2c2-18df39490d48.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO XTREME HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yeBgG8rzQ5RRsOlvFBea1S/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO XTREME"tvg-id=""tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpgt7p-e56bd6a5-5392-4dba-b2c2-18df39490d48.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO XTREME
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xS0E9z0B2tSDT9h9w-W3TE/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | PARAMOUNT HD -"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0Jlpo6Q-pz4sRAKzNcgMkA_A75_A6yPVSA&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | PARAMOUNT HD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wHNrFfR_hBnKlxppT3pkUU/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | SHOWTIME EXTREME HQ"tvg-id=""tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | SHOWTIME EXTREME HQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xSCkgLPDLKKYOCSxw4e9Hq/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | SPACE FHD"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmEH8nElhOC1Zy-eT9rciDQJrti64bkBt4VIwUFz336rh6o7c0hDzX5l0h9-g67N-Thw&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | SPACE FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z-6wxqPNAM6HJOmmzGWpKH/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | SPACE  -"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmEH8nElhOC1Zy-eT9rciDQJrti64bkBt4VIwUFz336rh6o7c0hDzX5l0h9-g67N-Thw&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | SPACE  -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zTk3NHQNWm8rrZ7pau9hkQ/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | STAR CHANNEL HD -"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwey_QSgsURF5ORWFEgyemvsmJXAux5cssS_z_HZygeAGq-wNY38LPXHXw6MC8dO56xLY&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | STAR CHANNEL HD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wkEyVAISmfULJy_d3-6Ro1/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | STAR CHANNEL HD"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwey_QSgsURF5ORWFEgyemvsmJXAux5cssS_z_HZygeAGq-wNY38LPXHXw6MC8dO56xLY&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | STAR CHANNEL HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z_7qCiu0qcoqEj1NUM9jG2/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | STARZ ENCORE SUSPENSE"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s83076_ll_h3_aa.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | STARZ ENCORE SUSPENSE
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zy0pY7JicO-4mxuv0g9CMF/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | SYFY FHD"tvg-id=""tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | SYFY FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xNJJxGRO81y_8dpp7wTpGZ/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | TBS"tvg-id=""tvg-logo="https://www.kindpng.com/picc/m/483-4832828_tbs-logo-png-transparent-transparent-tbs-logo-png.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | TBS
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xJK06VzKvU0z7rsMA_xgr7/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | TCM FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | TCM FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wr3Xh6FbVUtMzjrXERUN_G/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | TCM HQ"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | TCM HQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z61XXOmkw3JylpPdSN0EdV/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | TNT FHD -"tvg-id=""tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41SnZkqVXQL.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | TNT FHD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xabwkSi9C2sRcgjgAtmCQJ/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | TNT HD -"tvg-id=""tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41SnZkqVXQL.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | TNT HD -
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yR-VUV78BNs9wXJzfR32QO/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | TNT SERIES SD"tvg-id=""tvg-logo="https://static.wixstatic.com/media/281e2a_995a2ff66d264766a7c304d2f9b70614~mv2.png/v1/fit/w_864%2Ch_864%2Cal_c/file.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | TNT SERIES SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1w0A5VeQNDvATAhfEOXuFmb/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | TNT SERIES HD."tvg-id=""tvg-logo="https://static.wixstatic.com/media/281e2a_995a2ff66d264766a7c304d2f9b70614~mv2.png/v1/fit/w_864%2Ch_864%2Cal_c/file.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | TNT SERIES HD.
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zXBHNG3b3tsFqJmzHr-7f8/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | WARNER CHANNEL HD"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Warner_Channel_Shield_2000.png/revision/latest/scale-to-width-down/250?cb=20200117133843&path-prefix=es"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | WARNER CHANNEL HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zOVOAyeMCkW1rd805AYjXA/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | WARNER CHANNEL FHD"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Warner_Channel_Shield_2000.png/revision/latest/scale-to-width-down/250?cb=20200117133843&path-prefix=es"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | WARNER CHANNEL FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xHH-47DDpzx3VvP-BchPEU/m3u8
+#EXTINF:-1 tvg-name="CINE | SONY COMEDIAS FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",CINE | SONY COMEDIAS FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xIpEdvKulLkfCNKhuL6_zY/m3u8
+#EXTINF:-1 tvg-name="CINE | SONY HD"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",CINE | SONY HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xOFw4G80kthPlWzRd3pAZI/m3u8
+#EXTINF:-1 tvg-name="CINE | SONY NOVELAS"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",CINE | SONY NOVELAS
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zx3weidXGckR5DxwFTQ4z0/m3u8
+#EXTINF:-1 tvg-name="SONY CINE HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",SONY CINE HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xqRfBrycZVKkN_3gxI5n3J/m3u8
+#EXTINF:-1 tvg-name="SONY MOVIES"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",SONY MOVIES
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yG8Ml10aaXuFII6tx8V4Wo/m3u8
+#EXTINF:-1 tvg-name="CINE | DE PELICULA CLASICO"tvg-id=""tvg-logo="http://51.222.152.107:81/posters/1618974359150.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",CINE | DE PELICULA CLASICO
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wGCSiJtk944hlpgZHVykZR/m3u8
+#EXTINF:-1 tvg-name="CINE | DE PELICULA HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",CINE | DE PELICULA HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1ySHZee-u9grrYgkevT8hwf/m3u8
+#EXTINF:-1 tvg-name="CINE | DE PELICULA FHD"tvg-id=""tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=430"group-title="⭐ | CINE PREMIUM EXCLUSIVO",CINE | DE PELICULA FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x7vMGFhgWZ_pU0hiEhvVm2/m3u8
+#EXTINF:-1 tvg-name="CINE | DE PELICULA PLUS"tvg-id=""tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",CINE | DE PELICULA PLUS
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wxU0XDfYd_PX-ZSTUV5FZG/m3u8
+#EXTINF:-1 tvg-name="P| Morbido TV HD"tvg-id=""tvg-logo="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_820/v1476819145/content-items/001/745/720/LOGOS_DOMESTIKA-16-original.jpg"group-title="⭐ | CINE PREMIUM EXCLUSIVO",P| Morbido TV HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxCjTqx2jYiijvk1V6pww1Xb/m3u8
+#EXTINF:-1 tvg-name="P | Multipremier"tvg-id=""tvg-logo="http://fastv.lat:80/images/14be94db8dd1117db28a9e25cbd1c186.png"group-title="⭐ | CINE PREMIUM EXCLUSIVO",P | Multipremier
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxBlqp7G67blPUSAr2Lx1w8v/m3u8
+#EXTINF:-1 tvg-name="PREMIUM | HBO POP MX"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVnMHcQQbV1arQqL1aXSdsPQjQOS1BoB_zOB1rOphseF5cNjelO7wA6blvVo9lA8b6N8E&usqp=CAU"group-title="⭐ | CINE PREMIUM EXCLUSIVO",PREMIUM | HBO POP MX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zIPEx4a3MEQMZMOVU64PJI/m3u8
+#EXTINF:-1 tvg-name="2 MB | COMEDY CENTRAL LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/7edf6d5e7fa9c770d1049ce862712ab0.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2 MB | COMEDY CENTRAL LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxD1ORFJNVR1As2Z5VSmneha/m3u8
+#EXTINF:-1 tvg-name="2MB | Discovery Channel"tvg-id=""tvg-logo="http://fastv.lat:80/images/7cfa89bce0df38bb6d2d27217df0838e.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | Discovery Channel
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxDDHRt5TRXbWMeoSKMfNDxD/m3u8
+#EXTINF:-1 tvg-name="2 MB | DISCOVERY KIDS LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/02f5d12aa1c6132680f7ba122843228c.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2 MB | DISCOVERY KIDS LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxCMs8LgkNI5rpqiv7-QfUgq/m3u8
+#EXTINF:-1 tvg-name="2MB | Fox Sports"tvg-id=""tvg-logo="http://fastv.lat:80/images/92383966a61945d68e0a1bcee0ab1d57.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | Fox Sports
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxBDMOdkFizIg15UxfexN-kg/m3u8
+#EXTINF:-1 tvg-name="2 MB | GOL TV LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/1a0a1f09589ae5f943e3d4e9589911d3.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2 MB | GOL TV LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxCyO-ZWoinXo7nGxwygh5HB/m3u8
+#EXTINF:-1 tvg-name="2 MB| Fox Sports 3 LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/0761cd05868d180929770c662ac0272d.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2 MB| Fox Sports 3 LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxCuCPki-hBMhX6tId4o1IY_/m3u8
+#EXTINF:-1 tvg-name="2MB |  HBO Pop LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/973709494864d1c9f46457c99f079260.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB |  HBO Pop LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxB08ziiAJdgouqY-Q3A9gOA/m3u8
+#EXTINF:-1 tvg-name="2MB |  RCN LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/276057540da53f8e197bc93c3324a308.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB |  RCN LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxAuS7OYz40rD_UAi0AkZv9X/m3u8
+#EXTINF:-1 tvg-name="2MB | AMC LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/5fe6871c6ca7c47b4f204941a388bf12.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | AMC LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxACIQ7Dj3g7MV1EOCVZnX8z/m3u8
+#EXTINF:-1 tvg-name="2MB | America TV LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/b26a352d29bc504922d6d904c70c8a07.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | America TV LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxCOs5NHVcsQvZaUVeeUjQjK/m3u8
+#EXTINF:-1 tvg-name="2MB | Animal Planet"tvg-id=""tvg-logo="http://fastv.lat:80/images/d3a505752ff58aca4a38c3aa1a1596c1.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | Animal Planet
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxDfXLq7XkwHlZd2hQlrG7hV/m3u8
+#EXTINF:-1 tvg-name="2MB | AXN"tvg-id=""tvg-logo="http://fastv.lat:80/images/e7187a75ca4ee91cc1812bf69e6cfe5e.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | AXN
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxBTe3DtjIA8GLmznTVH5e5-/m3u8
+#EXTINF:-1 tvg-name="2MB | Azteca 7"tvg-id=""tvg-logo="http://fastv.lat:80/images/c5dc9994f3cf7ec7b0beec23fa0cc654.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | Azteca 7
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxAE5ep-5tPzPlMXzAS-5e5a/m3u8
+#EXTINF:-1 tvg-name="2MB | Azteca Uno"tvg-id=""tvg-logo="http://fastv.lat:80/images/2e36d78ab0f0ac672827183c1ce33ec6.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | Azteca Uno
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxCd3nnvXO30f0OzABY-n7Go/m3u8
+#EXTINF:-1 tvg-name="2MB | BABY TV LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/3c136971e37a83c8a9b1873901967dd1.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | BABY TV LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxC-BCNaGyok2CF5pCSCGv4c/m3u8
+#EXTINF:-1 tvg-name="2MB | BITME LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/a4f815fa5ca956bb00ae86ae43470b90.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | BITME LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxDAJ3WNenvaG13b7jTjDHV9/m3u8
+#EXTINF:-1 tvg-name="2MB | CARTOON NETWORK LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/fab8038004ec55ae58b7d2dcbc421d46.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | CARTOON NETWORK LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxAb6AdKHaZDiyU3E9kC01nT/m3u8
+#EXTINF:-1 tvg-name="2MB | Cinema Dinamita LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/fa05041bd0221820a5427270a51889f9.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | Cinema Dinamita LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxAEqUopJY7HWUaZtEcTXUZS/m3u8
+#EXTINF:-1 tvg-name="2MB | CINEMAX LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/75822cdebede9777c5fe1a9d0108007a.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | CINEMAX LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxAb6Ii2hd8YRqhHqUfk-QDE/m3u8
+#EXTINF:-1 tvg-name="2MB | De Pelicula +"tvg-id=""tvg-logo="http://fastv.lat:80/images/eed4104a87fd2acdcc0c01f6201845e8.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | De Pelicula +
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxBwZmuJp0belzkCj45BER97/m3u8
+#EXTINF:-1 tvg-name="2MB | Discovery ID"tvg-id=""tvg-logo="http://fastv.lat:80/images/c3bef1793c2ba906300dca19525b3cac.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | Discovery ID
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxCZFwm54pQ70dtyNhRz2ebv/m3u8
+#EXTINF:-1 tvg-name="2MB | Discovery Science LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/9e53f942bf6ddf8bc2dfccdaffad9b30.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | Discovery Science LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxAwcZzpJv0lSfXPe2v4NIHL/m3u8
+#EXTINF:-1 tvg-name="2MB | Discovery Turbo"tvg-id=""tvg-logo="http://fastv.lat:80/images/bfae08e0c72227ef48c830b77f1f80a4.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | Discovery Turbo
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxBBUURqeGcKqoEF3Q-Y19ll/m3u8
+#EXTINF:-1 tvg-name="2MB | Discovery world LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/72deab87ee3671eeaa35c9aa7be5be0e.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | Discovery world LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxBkGQvKmCimGPLoBbNVc-o4/m3u8
+#EXTINF:-1 tvg-name="2MB | Distrito Comedia"tvg-id=""tvg-logo="http://fastv.lat:80/images/34b8a3c2834b2d479de081fd884deddf.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | Distrito Comedia
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxAeNEM1mlRoyY0vatwD1FhI/m3u8
+#EXTINF:-1 tvg-name="2MB | ESPN MX"tvg-id=""tvg-logo="http://fastv.lat:80/images/c1e9afc6d0ba645ed62cb9244652ff87.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | ESPN MX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxAGvb13gPSeRT6vUqHgrYq-/m3u8
+#EXTINF:-1 tvg-name="2MB | FOX SPORTS 2 LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/0761cd05868d180929770c662ac0272d.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | FOX SPORTS 2 LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxDOTJurgtjxKt6uIQ2x8aFh/m3u8
+#EXTINF:-1 tvg-name="2MB | FX LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/e66f10cf4c3d40f0cbe767d96d0f3f2a.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | FX LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxDRhEOFVwgeL5xaVULVcz40/m3u8
+#EXTINF:-1 tvg-name="2MB | Golden Edge"tvg-id=""tvg-logo="http://fastv.lat:80/images/bf222692ecd5c0383849c141db9624c9.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | Golden Edge
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxAr2ZUgkwDnhkZmi0pebXab/m3u8
+#EXTINF:-1 tvg-name="2MB | HBO + LQ"tvg-id=""tvg-logo="http://fastv.lat:80/images/04435e7088b4bc312d85789e6c238fe2.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | HBO + LQ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxA9dv04g07ODbCtkDZC-s3O/m3u8
+#EXTINF:-1 tvg-name="2MB | HBO 2"tvg-id=""tvg-logo="http://fastv.lat:80/images/f49fd79ee3d7b812adecdde4035a5e86.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | HBO 2
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxBwWKuYVvQZPLYVu87QWf7w/m3u8
+#EXTINF:-1 tvg-name="2MB | HBO"tvg-id=""tvg-logo="http://fastv.lat:80/images/07e137ef503dcc2c56cdb9a518a5ffe5.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | HBO
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxDMpKZIzRK-GKYeUSHH9m0K/m3u8
+#EXTINF:-1 tvg-name="2MB | History"tvg-id=""tvg-logo="http://fastv.lat:80/images/25b2cec714a6de5cd095744643c17ded.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB | History
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxBilACmGSZz0ErOUWR5YggN/m3u8
+#EXTINF:-1 tvg-name="2MB| Food Network"tvg-id=""tvg-logo="http://fastv.lat:80/images/f168aad3245c94f03cedb7d30d4d095b.png"group-title="⭐️ | 5 MEGAS ( CONEXIONES BAJAS )",2MB| Food Network
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MYbUSHntfltfZdW0qxLifxCJI_fifMA9UGJjKecdiav_/m3u8
+#EXTINF:-1 tvg-name="24/7 LOS SIMPSONS 1-5"tvg-id=""tvg-logo="https://logo.iptveditor.com/lessimpsons1.png"group-title="⭐️ | 24/7 ANIMADAS ADULTOS",24/7 LOS SIMPSONS 1-5
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEEIh5esEZnp-uJjjSn8LF2/m3u8
+#EXTINF:-1 tvg-name="24/7 LOS SIMPSONS 18-21"tvg-id=""tvg-logo="https://holatelcel.com/wp-content/uploads/2021/03/simpsons.jpg"group-title="⭐️ | 24/7 ANIMADAS ADULTOS",24/7 LOS SIMPSONS 18-21
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFZJcBop4xgb5JnOMLJEfMJ/m3u8
+#EXTINF:-1 tvg-name="24/7 LOS SIMPSONS 27-30"tvg-id=""tvg-logo="https://logo.iptveditor.com/lossimpsons24horas.png"group-title="⭐️ | 24/7 ANIMADAS ADULTOS",24/7 LOS SIMPSONS 27-30
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEd-6L-rIJN7Yj1WMpd-uhc/m3u8
+#EXTINF:-1 tvg-name="247 LOS SIMPSONS 12-17"tvg-id=""tvg-logo="https://holatelcel.com/wp-content/uploads/2021/03/simpsons.jpg"group-title="⭐️ | 24/7 ANIMADAS ADULTOS",247 LOS SIMPSONS 12-17
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWE0zJa7fDv5y1IVAJgVBRJd/m3u8
+#EXTINF:-1 tvg-name="247 LOS SIMPSONS 6-11"tvg-id=""tvg-logo="https://logo.iptveditor.com/lossimpsons24horas.png"group-title="⭐️ | 24/7 ANIMADAS ADULTOS",247 LOS SIMPSONS 6-11
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWH-HqXGFbtLb8uX3IfSYv4a/m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 3 FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png"group-title="▶️ | FOX SPORT HD",FOX SPORTS 3 FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eGDDGNDIlX9cdlP9l00JH-S/m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 2"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png"group-title="▶️ | FOX SPORT HD",FOX SPORTS 2
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eF4ONyUw7hA7wVOLpk2ziTW/m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 2  LAT HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png"group-title="▶️ | FOX SPORT HD",FOX SPORTS 2  LAT HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eEcqnKRXGwb-gBwCWstNK18/m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 1  LAT FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png"group-title="▶️ | FOX SPORT HD",FOX SPORTS 1  LAT FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eE1SqJIVmfK0JU-4DxdL6_X/m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 2 AR FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png"group-title="▶️ | FOX SPORT HD",FOX SPORTS 2 AR FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eFyvJYukj_J1OAOeX7jKoSS/m3u8
+#EXTINF:-1 tvg-name="FOX DEPORTES"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png"group-title="▶️ | FOX SPORT HD",FOX DEPORTES
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eGRtsv47y-os9yZvOq0XV4Q/m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS PREMIUM FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png"group-title="▶️ | FOX SPORT HD",FOX SPORTS PREMIUM FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eHVkKEb1QswiSXCu9vWPvMA/m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 2 HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png"group-title="▶️ | FOX SPORT HD",FOX SPORTS 2 HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eGpOY9-PBA9pmGKkBU69SeK/m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS 2 SD SUR"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png"group-title="▶️ | FOX SPORT HD",FOX SPORTS 2 SD SUR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eEto2dWfHlTy9AFr8yw2U93/m3u8
+#EXTINF:-1 tvg-name="FOX SPORTS | PREMIUM"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s106781_ll_h3_ab.png"group-title="▶️ | FOX SPORT HD",FOX SPORTS | PREMIUM
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eFnDnDlpGxoWuSYIEc9EleW/m3u8
+#EXTINF:-1 tvg-name="ESPN | 1 ARG FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 1 ARG FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xO8gSvjCQozWyeCkx2gn4v/m3u8
+#EXTINF:-1 tvg-name="ESPN | 1 ARG **"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 1 ARG **
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wVKsRlEr5GHhiFQ9qpajhm/m3u8
+#EXTINF:-1 tvg-name="ESPN | 1 LATINOAMERICA"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 1 LATINOAMERICA
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wFl_a9mcLl5YvO4rg3DjXa/m3u8
+#EXTINF:-1 tvg-name="ESPN | 1 SUR"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 1 SUR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z37cd-k5zr1ZzhfXebRUQH/m3u8
+#EXTINF:-1 tvg-name="ESPN | 2 ARG ##"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 2 ARG ##
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wWM20Zzj5CmSliX8hA_jqJ/m3u8
+#EXTINF:-1 tvg-name="ESPN | 2 ARG FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 2 ARG FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z-7I35DM9upbrsBLYvFNn2/m3u8
+#EXTINF:-1 tvg-name="ESPN | 2 HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 2 HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1y6BNXfio-udYBU3QdNQFNQ/m3u8
+#EXTINF:-1 tvg-name="ESPN | 2 SUR ®"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 2 SUR ®
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x4JdMag0cCladLLLur-6WE/m3u8
+#EXTINF:-1 tvg-name="ESPN | 3 ARG HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 3 ARG HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zScuVf-QQHr9uVGQXxuCMJ/m3u8
+#EXTINF:-1 tvg-name="ESPN | 3 ARG FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 3 ARG FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wzdP3NAaBLUTPCs5NeXy8p/m3u8
+#EXTINF:-1 tvg-name="ESPN | 3 HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 3 HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wuRfH5mZ3NOPmYYriWnMN-/m3u8
+#EXTINF:-1 tvg-name="ESPN | 3 SUR"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 3 SUR
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1w-iOuEJ8s_wgJevGkFSvYa/m3u8
+#EXTINF:-1 tvg-name="ESPN | 4 ARG FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 4 ARG FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xhARqWVGCgNNyoT4LOyjp-/m3u8
+#EXTINF:-1 tvg-name="ESPN | 4 ARG HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 4 ARG HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zULcB19Ng2fDJ7m8GCZkG0/m3u8
+#EXTINF:-1 tvg-name="ESPN | 4 HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 4 HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zZtSwl5J2ZYbvqzZcb2CMz/m3u8
+#EXTINF:-1 tvg-name="ESPN | 4 SUR ®"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 4 SUR ®
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xP01ObGDt7MiOcey0orr9R/m3u8
+#EXTINF:-1 tvg-name="ESPN | DEPORTES FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | DEPORTES FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wq7nejvdQpgowyJPG46-Ky/m3u8
+#EXTINF:-1 tvg-name="ESPN | PLUS"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | PLUS
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1w9dov_NXF7EYzOm4GmWrp_/m3u8
+#EXTINF:-1 tvg-name="ESPN | PREMIUM ARG OPC # 1"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | PREMIUM ARG OPC # 1
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z5ylFhkWrnGo6-cAywRZzT/m3u8
+#EXTINF:-1 tvg-name="ESPN | PREMIUM ARG OPC # 2"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | PREMIUM ARG OPC # 2
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x-SXJdGV-EtahaRE6-N6uA/m3u8
+#EXTINF:-1 tvg-name="ESPN | Espn Plus Sur"tvg-id=""tvg-logo="http://fastv.lat:80/images/bf113717a7ebce63c04f0bf60fecc8fe.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | Espn Plus Sur
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zH86BYJLKNKOZK8D0aGTSF/m3u8
+#EXTINF:-1 tvg-name="ESPN | Espn Plus | 2"tvg-id=""tvg-logo="http://fastv.lat:80/images/ba28101f8c529a042f9702d2ffcd11f3.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | Espn Plus | 2
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wCm16DOWJ79eDjdXcLy4TS/m3u8
+#EXTINF:-1 tvg-name="ESPN | Espn Plus |"tvg-id=""tvg-logo="http://fastv.lat:80/images/ba28101f8c529a042f9702d2ffcd11f3.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | Espn Plus |
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xMi6Rk5OsY1ZAPfPfKAI-6/m3u8
+#EXTINF:-1 tvg-name="ESPN | 07"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 07
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWH2bJzAmjdeztmim8XZWeVR/m3u8
+#EXTINF:-1 tvg-name="ESPN | 06"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png"group-title="▶️ | ESPN HD PREMIUM",ESPN | 06
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFUzyDZ7TUyzWdyXnh2U2Cz/m3u8
+#EXTINF:-1 tvg-name="ESPN | 05"tvg-id=""tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eb681237-c2ba-4911-855b-41784c9909c4/dflqnix-a6d6a58c-b6e7-4614-a04b-c99d124d32e5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ViNjgxMjM3LWMyYmEtNDkxMS04NTViLTQxNzg0Yzk5MDljNFwvZGZscW5peC1hNmQ2YTU4Yy1iNmU3LTQ2MTQtYTA0Yi1jOTlkMTI0ZDMyZTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0-a-kjb7eYWHW_wfDEqmyhEAZMI9hHUYGcno7qQ2z80"group-title="▶️ | ESPN HD PREMIUM",ESPN | 05
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFsCxu_Ht1pdI4CIWjy8AHf/m3u8
+#EXTINF:-1 tvg-name="DSPORTS | 1 ARG ***"tvg-id=""tvg-logo="https://i.ibb.co/B6WqVtq/LOGO2.png"group-title="▶️ | DIRECTV PREMIUM",DSPORTS | 1 ARG ***
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xGsOdzFAc6cqOJBVLUkmnq/m3u8
+#EXTINF:-1 tvg-name="DSPORTS | 2 ARG FHD"tvg-id=""tvg-logo="http://zonamovie.live:8008/images/24e5a156e53bde694d1b4fb2f252b331.png"group-title="▶️ | DIRECTV PREMIUM",DSPORTS | 2 ARG FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yGwmi3dtR-0AwMuV-uk4di/m3u8
+#EXTINF:-1 tvg-name="DSPORTS | 2 ARG"tvg-id=""tvg-logo="http://zonamovie.live:8008/images/24e5a156e53bde694d1b4fb2f252b331.png"group-title="▶️ | DIRECTV PREMIUM",DSPORTS | 2 ARG
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yhK1AXdRkN1SuIGBcmFTs9/m3u8
+#EXTINF:-1 tvg-name="DSPORTS | PLUS ARG FHD"tvg-id=""tvg-logo="http://zonamovie.live:8008/images/24e5a156e53bde694d1b4fb2f252b331.png"group-title="▶️ | DIRECTV PREMIUM",DSPORTS | PLUS ARG FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zqTssAijWT2p5aXx_p0tA_/m3u8
+#EXTINF:-1 tvg-name="DSPORTS | PLUS ARG"tvg-id=""tvg-logo="http://zonamovie.live:8008/images/24e5a156e53bde694d1b4fb2f252b331.png"group-title="▶️ | DIRECTV PREMIUM",DSPORTS | PLUS ARG
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yvglLMbNNzHF7abdazzEBX/m3u8
+#EXTINF:-1 tvg-name="TYC SPORTS INTERNACIONAL HD"tvg-id=""tvg-logo="https://image.ibb.co/eXDhHQ/Ty_C_Sports_Internacional.png"group-title="▶️ | DEPORTES PREMIUM",TYC SPORTS INTERNACIONAL HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eGSaiIbJQSDNusuNwA5Mp9C/m3u8
+#EXTINF:-1 tvg-name="TYC SPORTS HD"tvg-id=""tvg-logo="http://svtv.xyz:8000/images/a3929ff1f9f4affebf1e59f5db46b938.png"group-title="▶️ | DEPORTES PREMIUM",TYC SPORTS HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eHMWtxEFFqYQudo8jUZ-PsI/m3u8
+#EXTINF:-1 tvg-name="TYC SPORTS"tvg-id=""tvg-logo="http://svtv.xyz:8000/images/a3929ff1f9f4affebf1e59f5db46b938.png"group-title="▶️ | DEPORTES PREMIUM",TYC SPORTS
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eHbDupqloJUxPXlPoSejkBg/m3u8
+#EXTINF:-1 tvg-name="TNT SPORTS CHILE"tvg-id=""tvg-logo="http://svtv.xyz:8000/images/1ae1c7b64cfeba957afa7c26150fd20a.png"group-title="▶️ | DEPORTES PREMIUM",TNT SPORTS CHILE
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eH8-GDFqMrHC54GVbwmiLe6/m3u8
+#EXTINF:-1 tvg-name="TENNIS CHANNEL FHD"tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/tt/tennis_channel.png"group-title="▶️ | DEPORTES PREMIUM",TENNIS CHANNEL FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mdtc0I9pahRezPMVFnnW4eGZDoA5mFpWHT7FM2pNuVJH/m3u8
+#EXTINF:-1 tvg-name="GOL TV LATINOAMERICA"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s32161_ll_h3_aa.png"group-title="▶️ | DEPORTES PREMIUM",GOL TV LATINOAMERICA
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yJShKhpb9moBWR3euz80Gr/m3u8
+#EXTINF:-1 tvg-name="TNT SPORTS | 1"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png"group-title="▶️ | DEPORTES PREMIUM",TNT SPORTS | 1
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1y8_vQm-8hL2fy6Th3UFQXL/m3u8
+#EXTINF:-1 tvg-name="TNT SPORTS | 2"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png"group-title="▶️ | DEPORTES PREMIUM",TNT SPORTS | 2
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1x3eQdNarY2XUAcMEx6bN03/m3u8
+#EXTINF:-1 tvg-name="TNT SPORTS | 3"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png"group-title="▶️ | DEPORTES PREMIUM",TNT SPORTS | 3
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1xmY9_EP2cMTa_uHMRCdyii/m3u8
+#EXTINF:-1 tvg-name="AR | DIRECTV SPORTS 2 FHD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/041bd9a1090be01c1cd288a925ed0513.png"group-title="⚽ | DEPORTES ARGENTINA",AR | DIRECTV SPORTS 2 FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yXrACf2QHSrAENPiPl8Veh/m3u8
+#EXTINF:-1 tvg-name="AR | ESPN 1 HD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/d36692f837ecfed4a40fe2d04b24929e.png"group-title="⚽ | DEPORTES ARGENTINA",AR | ESPN 1 HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zAu6KT4ASeOxOhjJ3ICWIX/m3u8
+#EXTINF:-1 tvg-name="AR | ESPN 2 HD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/4403cb9746f540ac7ec0fa6339e1e85e.png"group-title="⚽ | DEPORTES ARGENTINA",AR | ESPN 2 HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z0A3L3Z1K1pVJcec_Q8vaN/m3u8
+#EXTINF:-1 tvg-name="AR | ESPN 3 FHD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/4ec0488832be1e25d81f9a3a7fde66d2.png"group-title="⚽ | DEPORTES ARGENTINA",AR | ESPN 3 FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1z28LvJMxjXUP59KnWsFRMy/m3u8
+#EXTINF:-1 tvg-name="AR | ESPN PREMIUM HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="⚽ | DEPORTES ARGENTINA",AR | ESPN PREMIUM HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1yEbJWRB1D0kZfZcxg7PSIy/m3u8
+#EXTINF:-1 tvg-name="AR | ESPN SD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/d36692f837ecfed4a40fe2d04b24929e.png"group-title="⚽ | DEPORTES ARGENTINA",AR | ESPN SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1welW-zI6x934Biloo3ZhAN/m3u8
+#EXTINF:-1 tvg-name="AR | FOX SPORTS 1"tvg-id=""tvg-logo="http://castlempire.site:8080/images/2f36adf8b83f9c078bbd23ad429ffc03.png"group-title="⚽ | DEPORTES ARGENTINA",AR | FOX SPORTS 1
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wJ-najm-1xvvFsCv7GejLb/m3u8
+#EXTINF:-1 tvg-name="AR | FOX SPORTS 2"tvg-id=""tvg-logo="http://castlempire.site:8080/images/2c0fb25c5554e4920dc84c9a319d0ff2.png"group-title="⚽ | DEPORTES ARGENTINA",AR | FOX SPORTS 2
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zh1zAKeEcg4hqfn4VYp7FL/m3u8
+#EXTINF:-1 tvg-name="AR | FOX SPORTS 3"tvg-id=""tvg-logo="http://castlempire.site:8080/images/e758968361c4eb53a63cd2630a04fbfd.png"group-title="⚽ | DEPORTES ARGENTINA",AR | FOX SPORTS 3
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1wv3lEmMMZd_zlDy4S7TyEj/m3u8
+#EXTINF:-1 tvg-name="AR | TNT SPORTS HD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/2ae2b75bbcc8cb0b8a3cbda4ed86fd6c.png"group-title="⚽ | DEPORTES ARGENTINA",AR | TNT SPORTS HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zAzx4-pn2_rvgHW4TZe4Ro/m3u8
+#EXTINF:-1 tvg-name="AR | TNT SPORTS SD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/2ae2b75bbcc8cb0b8a3cbda4ed86fd6c.png"group-title="⚽ | DEPORTES ARGENTINA",AR | TNT SPORTS SD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zXgQ8xGtAcUf1q5YRKLyGi/m3u8
+#EXTINF:-1 tvg-name="AR | TYC SPORTS"tvg-id=""tvg-logo="http://castlempire.site:8080/images/40389c101b19de6b0c2e742838f778cb.png"group-title="⚽ | DEPORTES ARGENTINA",AR | TYC SPORTS
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zW2j_W5SGOs_uVT3HsgOZA/m3u8
+#EXTINF:-1 tvg-name="AR | TYC SPORTS LOCAL FHD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/c6f99a6eba338f2adc1e2f72f67d3675.png"group-title="⚽ | DEPORTES ARGENTINA",AR | TYC SPORTS LOCAL FHD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-Mf0QsbWHWtg4iMsmXceIT1zg2UkSBp6Kw2I1uik_pxYm/m3u8
+#EXTINF:-1 tvg-name="HOT"tvg-id=""tvg-logo="http://l3d.us:25461/images/bc9189406be84ec297464a514221406d.png"group-title="⛔ XXX +18 | PREMIUM",HOT
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MfcaV1pkefcngmxV4_q9EXC4-Gxb_FnaijCbxGGiqy1p/m3u8
+#EXTINF:-1 tvg-name="Dusk"tvg-id=""tvg-logo="http://l3d.us:25461/images/bc9189406be84ec297464a514221406d.png"group-title="⛔ XXX +18 | PREMIUM",Dusk
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MfcaV1pkefcngmxV4_q9EXBRVRfoCe26UjwEVwfR6H5q/m3u8
+#EXTINF:-1 tvg-name="Juice"tvg-id=""tvg-logo="http://l3d.us:25461/images/bc9189406be84ec297464a514221406d.png"group-title="⛔ XXX +18 | PREMIUM",Juice
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MfcaV1pkefcngmxV4_q9EXDWfF30hHyPMl4RbAIs9GW9/m3u8
+#EXTINF:-1 tvg-name="Sextreme"tvg-id=""tvg-logo="http://l3d.us:25461/images/bc9189406be84ec297464a514221406d.png"group-title="⛔ XXX +18 | PREMIUM",Sextreme
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MfcaV1pkefcngmxV4_q9EXCZXIJRzD9uk-Yqrtzh-4K-/m3u8
+#EXTINF:-1 tvg-name="PenthouseX"tvg-id=""tvg-logo="http://l3d.us:25461/images/bc9189406be84ec297464a514221406d.png"group-title="⛔ XXX +18 | PREMIUM",PenthouseX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MfcaV1pkefcngmxV4_q9EXCOTPs2lXsjGQuKSsepXCJJ/m3u8
+#EXTINF:-1 tvg-name="You Porn"tvg-id=""tvg-logo="http://l3d.us:25461/images/bc9189406be84ec297464a514221406d.png"group-title="⛔ XXX +18 | PREMIUM",You Porn
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MfcaV1pkefcngmxV4_q9EXBQLtbWH52rVHHFXEaLH6Ug/m3u8
+#EXTINF:-1 tvg-name="HustlerXXX"tvg-id=""tvg-logo="http://l3d.us:25461/images/bc9189406be84ec297464a514221406d.png"group-title="⛔ XXX +18 | PREMIUM",HustlerXXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MfcaV1pkefcngmxV4_q9EXAfgzNUBEJmHq47hpdQeFbb/m3u8
+#EXTINF:-1 tvg-name="XXX : Playboy TV HD"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="⛔ XXX +18 | PREMIUM",XXX : Playboy TV HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHvY-LGx9mSiJ9B07hDLEz1/m3u8
+#EXTINF:-1 tvg-name="XXX : Venus TV"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="⛔ XXX +18 | PREMIUM",XXX : Venus TV
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEVyLrQkdeFeDY3QO_lfMiD/m3u8
+#EXTINF:-1 tvg-name="XXX : Lesbian Channel HD"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="⛔ XXX +18 | PREMIUM",XXX : Lesbian Channel HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHHnZijLJL2Ka12bBHJzCq5/m3u8
+#EXTINF:-1 tvg-name="XXX : Brazzers HD WJJ"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="⛔ XXX +18 | PREMIUM",XXX : Brazzers HD WJJ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFyNcz65xaxYsbuiwYDRCGE/m3u8
+#EXTINF:-1 tvg-name="XXX : SexMex HD"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="⛔ XXX +18 | PREMIUM",XXX : SexMex HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWF1Y-N5a9CmH4CwvAvYQzKJ/m3u8
+#EXTINF:-1 tvg-name="XXX : Adult Channel HD WJJ"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="⛔ XXX +18 | PREMIUM",XXX : Adult Channel HD WJJ
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEnY4n2vvZW464xfkuCTXjI/m3u8
+#EXTINF:-1 tvg-name="XXX : Gay Channel HD"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="⛔ XXX +18 | PREMIUM",XXX : Gay Channel HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWGgcSdmAO7QwxTM3ynRV35Q/m3u8
+#EXTINF:-1 tvg-name="XXX : Adult Penthouse Black HD"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="⛔ XXX +18 | PREMIUM",XXX : Adult Penthouse Black HD
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFOnYtcU78gFAXHfkuVN9tt/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Mofos - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/baf42b58-fc92-4ccb-a64e-8ca14f9e262f.jpg"group-title="⛔ XXX +18 | PREMIUM",Sinsations: Mofos - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFPlQjQXwUcIAiAGmwZSIeJ/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Network 1 - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Network 1 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWG1XnRbdsGF3aCey2unNMV3/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Network 2 - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Network 2 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFXT9I0kHm2gOUHaYjXX9RR/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Network 3 - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Network 3 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEzEAuqiGG4Wt5jqR3AGE5n/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Ultimate Surrender - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Ultimate Surrender - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHd1dC32c79rxblez9MzcEZ/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Xtrasmall - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Xtrasmall - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFcK8Wti-fPfU6y8QshVvEp/m3u8
+#EXTINF:-1 tvg-name="Babes - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/36104869-0635-4034-9604-f6f0cb918c8a.jpg"group-title="⛔ XXX +18 | PREMIUM",Babes - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEYEGQBtzUhgWZo2XGEPXmq/m3u8
+#EXTINF:-1 tvg-name="Bang Bros - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/5013f8ff-e2b3-42ce-828f-ab8634be2c32.jpg"group-title="⛔ XXX +18 | PREMIUM",Bang Bros - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFOkMgzvarSmBGe0_x8G2fI/m3u8
+#EXTINF:-1 tvg-name="Blacked - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/ca013578-8745-44a8-ac52-efc1d1a913f8.jpg"group-title="⛔ XXX +18 | PREMIUM",Blacked - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWH_Z54IgPoj2T-jst_nEq95/m3u8
+#EXTINF:-1 tvg-name="Deepthroat Sirens - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/5cc5427f-925c-43b6-8815-81941c40f096.jpg"group-title="⛔ XXX +18 | PREMIUM",Deepthroat Sirens - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFJu4t3fARkqm3eNJSu2Pep/m3u8
+#EXTINF:-1 tvg-name="Gay (men) - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/1d5c3ba2-9686-4b3d-ba82-d0512c560982.jpg"group-title="⛔ XXX +18 | PREMIUM",Gay (men) - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFQsSoOtKhQZKCUvFhnRbxa/m3u8
+#EXTINF:-1 tvg-name="Gay 2 - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/4d76fbb4-d0f2-4d10-99ac-892fd75249bd.jpg"group-title="⛔ XXX +18 | PREMIUM",Gay 2 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFhc-n0QqvGI5bdKs9mQUT4/m3u8
+#EXTINF:-1 tvg-name="Lesbian - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/28e8bd8b-f582-40db-8886-2e278e854b4c.jpg"group-title="⛔ XXX +18 | PREMIUM",Lesbian - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWGZTHQdNHy0De64uZXpmVTt/m3u8
+#EXTINF:-1 tvg-name="Pure Taboo - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/021cd8df-6ddd-4d7f-840b-963b1875ac7e.jpg"group-title="⛔ XXX +18 | PREMIUM",Pure Taboo - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFI3SJbUbVqVgsodx_EvHut/m3u8
+#EXTINF:-1 tvg-name="Whipped Ass - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/01421e5e-0592-49de-ab31-a9cd94ba52dd.jpg"group-title="⛔ XXX +18 | PREMIUM",Whipped Ass - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWGA_S14BeLokx84JkmwIYeY/m3u8
+#EXTINF:-1 tvg-name="Erotic 5 - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/231a8a0c-2128-42b1-8c48-bde93fa47816.jpg"group-title="⛔ XXX +18 | PREMIUM",Erotic 5 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWE3HiaZskxuQirxDRs9q6Fu/m3u8
+#EXTINF:-1 tvg-name="Hotclub 3 - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/6a32c556-1e29-4fd4-892f-7824de62a1de.jpg"group-title="⛔ XXX +18 | PREMIUM",Hotclub 3 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHCd1ljj4_lXptWYo472nBY/m3u8
+#EXTINF:-1 tvg-name="Jasmin TV - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/107b9d9e-1edf-4073-958c-2e7180580a3f.jpg"group-title="⛔ XXX +18 | PREMIUM",Jasmin TV - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEsqAsGu_cuVGmgBwXv8VqC/m3u8
+#EXTINF:-1 tvg-name="Max - XXX"tvg-id="MX"tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/60775b13-38e8-46d1-b4e6-141a9d688e99.jpg"group-title="⛔ XXX +18 | PREMIUM",Max - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFXdp9lORlUnbV28pO6rJrC/m3u8
+#EXTINF:-1 tvg-name="Oh - Ah - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/397a48f8-b175-4966-a992-5342fd011c02.jpg"group-title="⛔ XXX +18 | PREMIUM",Oh - Ah - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWGdXiqKEDUuyXgf3F2Kt5d4/m3u8
+#EXTINF:-1 tvg-name="Passion - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/891eea3b-4995-45cb-acf9-2c34e29192f7.jpg"group-title="⛔ XXX +18 | PREMIUM",Passion - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFYXrrG8viyKTxj4ZBsyWRw/m3u8
+#EXTINF:-1 tvg-name="Penthouse 1 - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/48ecf316-638e-4024-a373-fa0888eed9b5.jpg"group-title="⛔ XXX +18 | PREMIUM",Penthouse 1 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFWgvLah2G65olemNiKurz8/m3u8
+#EXTINF:-1 tvg-name="Penthouse Gold - XXX"tvg-id="PHGLD"tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/e27b612c-51b5-4774-bc07-6615fff085c3.jpg"group-title="⛔ XXX +18 | PREMIUM",Penthouse Gold - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHLhE9d_8QF8DCBMYGvkSou/m3u8
+#EXTINF:-1 tvg-name="Private TV - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/8e93a387-5258-41c5-92ae-b4477f910345.jpg"group-title="⛔ XXX +18 | PREMIUM",Private TV - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEyPdYpPyTJSMgzIUBiLJMH/m3u8
+#EXTINF:-1 tvg-name="Redlight - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/d50146c5-c3d8-48bd-93c6-0b94cbd04236.jpg"group-title="⛔ XXX +18 | PREMIUM",Redlight - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWG2vMLU1b0teDsdZOIeraY-/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Girls Gone Wild - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/e69930fb-4062-4456-ba90-250d758f2c49.jpg"group-title="⛔ XXX +18 | PREMIUM",Sinsations: Girls Gone Wild - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFpN8Or7GmzqkBGY3k-FgE2/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Bang Bros 2 - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/3001604f-2aa4-4c35-9dd3-2e15f802ad02.jpg"group-title="⛔ XXX +18 | PREMIUM",Sinsations: Bang Bros 2 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWGTJj0KsK4p16Im24UQTPuA/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Bang Bros - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/9a0be4b2-c555-4c39-8c5f-e03540729de7.jpg"group-title="⛔ XXX +18 | PREMIUM",Sinsations: Bang Bros - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWE_4khVZ8jF2MfL89Y0zi5g/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Blacked 2 - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Blacked 2 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWGhlIcyGA4smv3fc1i38F-L/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Blacked - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Blacked - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWGQ4nUp4MNmtWvz-ESzlypU/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Creampie 2 - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Creampie 2 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFESl7uHDXvk8J-sPJKTDmu/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Creampie - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Creampie - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWF-BpVQjoJlqMzwAp-KPtnv/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Double Dip 2 - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Double Dip 2 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFF1Hj4nKoYPaADWbMZO76O/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Double Dip - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Double Dip - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWEJCwdAOrAw9p4vz7V8Roqx/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Family Strokes - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Family Strokes - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFWIpLV79qeA9r5n8Smal1b/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Girls Gone Wild 2 - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Girls Gone Wild 2 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWHUgSvTvD2U2qd_hLoGd139/m3u8
+#EXTINF:-1 tvg-name="Sinsations: Mofos 2 - XXX"tvg-id=""tvg-logo=""group-title="⛔ XXX +18 | PREMIUM",Sinsations: Mofos 2 - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFt3DTfeYCKJSgfd3m5f8G3/m3u8
+#EXTINF:-1 tvg-name="Teamskeet - XXX"tvg-id=""tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/6005f83e-ed62-412e-ab7f-a77b22d23c80.jpg"group-title="⛔ XXX +18 | PREMIUM",Teamskeet - XXX
+https://zonamovie.live:443/play/t3XpPPbJXdLMS-uvZU3-MTO_GM75TkXHxC4wLJDKOWFGU8YeuNO5z7gkQ5pISoP4/m3u8
